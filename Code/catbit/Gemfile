@@ -1,11 +1,8 @@
 source 'https://rubygems.org'
 
-# Adding Necessary Gems
-gem 'therubyracer'
-gem 'fitgem'
-gem 'devise'
-gem 'omniauth'
+#Refrence Omniauth gem
 gem 'omniauth-fitbit'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
