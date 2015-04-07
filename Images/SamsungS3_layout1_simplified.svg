@@ -37,17 +37,30 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="926.96173"
-     inkscape:cy="615.57004"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-1096.9592"
+     inkscape:cy="1063.1293"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      inkscape:window-x="1358"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="72px"
+       spacingy="72px"
+       type="xygrid"
+       id="grid5422" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -56,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -411,30 +424,124 @@
          style="fill:none;stroke:#000000;stroke-width:6.68508291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          d="m 1846.4286,-58.035717 c 0,10.552584 -8.3947,19.107143 -18.75,19.107143 -10.3554,0 -18.75,-8.554559 -18.75,-19.107143 0,-10.552584 8.3946,-19.107143 18.75,-19.107143 10.3553,0 18.75,8.554559 18.75,19.107143 z" />
     </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       id="g6394"
+       transform="translate(-1612.2035,227.63782)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 342.17231,-384.0669 35.65538,0 c 219.38351,0 395.9991,5.32953 395.9991,170.4067 l 0,1178.78697 c 0,285.93763 -150.12683,266.28753 -395.9991,266.28753 l -35.65538,0 c -264.340177,0 -395.999099,14.18 -395.999099,-266.28753 l 0,-1178.78697 c 0,-169.55362 176.615589,-170.4067 395.999099,-170.4067 z"
+         id="path6396"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssssssss" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         d="m 359.99995,1193.1836 c -56.8064,0 -102.8571,-15.9978 -102.8571,-50.1072 0,-26.4307 46.0507,-25.8928 102.8571,-25.8928 56.6461,0 102.6301,-0.6543 102.85675,25.7973 4.5e-4,40.9906 -46.05025,50.2027 -102.85675,50.2027 z"
+         id="path6398"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssscs" />
+      <g
+         id="g6400"
+         transform="translate(-1706.3933,0)">
+        <path
+           id="path6402"
+           d="m 1831.4066,1391.1168 c -17.992,0 -32.5774,-11.4196 -32.5774,-25.5063 0,-14.0868 14.5854,-25.5064 32.5774,-25.5064 17.9412,0 32.5055,11.3576 32.5773,25.4555 10e-5,14.1376 -14.5853,25.5572 -32.5773,25.5572 z"
+           style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+           transform="translate(0,-227.63782)"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssscs" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+           d="m 2301.38,1163.479 c -17.992,0 -32.5774,-11.4196 -32.5774,-25.5063 0,-14.0868 14.5854,-25.5064 32.5774,-25.5064 17.9412,0 32.5055,11.3576 32.5773,25.4555 10e-5,14.1376 -14.5853,25.5572 -32.5773,25.5572 z"
+           id="path6404"
+           sodipodi:nodetypes="ssscs" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         d="m 360.00005,-309.22192 c -84.6291,0 -96.9747,0.31767 -96.9747,-12.37437 0,-12.69204 9.667,-14.39467 96.9747,-14.39467 90.0135,0 96.7605,1.64677 96.9742,14.34877 4e-4,12.73794 -11.8095,12.42027 -96.9742,12.42027 z"
+         id="path6406"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssscs" />
+      <ellipse
+         d="m 1846.4286,-58.035717 c 0,10.552584 -8.3947,19.107143 -18.75,19.107143 -10.3554,0 -18.75,-8.554559 -18.75,-19.107143 0,-10.552584 8.3946,-19.107143 18.75,-19.107143 10.3553,0 18.75,8.554559 18.75,19.107143 z"
+         ry="19.107143"
+         rx="18.75"
+         cy="-58.035717"
+         cx="1827.6786"
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="ellipse6408"
+         transform="translate(-1716.6654,-227.63782)"
+         sodipodi:cx="1827.6786"
+         sodipodi:cy="-58.035717"
+         sodipodi:rx="18.75"
+         sodipodi:ry="19.107143" />
+      <ellipse
+         d="m 1846.4286,-58.035717 c 0,10.552584 -8.3947,19.107143 -18.75,19.107143 -10.3554,0 -18.75,-8.554559 -18.75,-19.107143 0,-10.552584 8.3946,-19.107143 18.75,-19.107143 10.3553,0 18.75,8.554559 18.75,19.107143 z"
+         ry="19.107143"
+         rx="18.75"
+         cy="-58.035717"
+         cx="1827.6786"
+         style="fill:none;stroke:#000000;stroke-width:6.68508291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="ellipse6410"
+         transform="matrix(0.74793389,0,0,0.74793389,-839.1846,-236.82023)"
+         sodipodi:cx="1827.6786"
+         sodipodi:cy="-58.035717"
+         sodipodi:rx="18.75"
+         sodipodi:ry="19.107143" />
+      <ellipse
+         d="m 1846.4286,-58.035717 c 0,10.552584 -8.3947,19.107143 -18.75,19.107143 -10.3554,0 -18.75,-8.554559 -18.75,-19.107143 0,-10.552584 8.3946,-19.107143 18.75,-19.107143 10.3553,0 18.75,8.554559 18.75,19.107143 z"
+         ry="19.107143"
+         rx="18.75"
+         cy="-58.035717"
+         cx="1827.6786"
+         style="fill:none;stroke:#000000;stroke-width:4.21602774;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="ellipse6412"
+         transform="matrix(1.1859504,0,0,1.1859504,-1562.0358,-212.8282)"
+         sodipodi:cx="1827.6786"
+         sodipodi:cy="-58.035717"
+         sodipodi:rx="18.75"
+         sodipodi:ry="19.107143" />
+      <ellipse
+         d="m 1846.4286,-58.035717 c 0,10.552584 -8.3947,19.107143 -18.75,19.107143 -10.3554,0 -18.75,-8.554559 -18.75,-19.107143 0,-10.552584 8.3946,-19.107143 18.75,-19.107143 10.3553,0 18.75,8.554559 18.75,19.107143 z"
+         ry="19.107143"
+         rx="18.75"
+         cy="-58.035717"
+         cx="1827.6786"
+         transform="matrix(0.74793389,0,0,0.74793389,-880.79174,-236.82023)"
+         id="ellipse6414"
+         style="fill:none;stroke:#000000;stroke-width:6.68508291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:cx="1827.6786"
+         sodipodi:cy="-58.035717"
+         sodipodi:rx="18.75"
+         sodipodi:ry="19.107143" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="screen"
-     style="display:inline">
+     style="display:none">
     <rect
-       style="fill:#28bfff;fill-opacity:1;stroke:none;display:inline"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
        id="rect2993"
        width="720"
        height="1280"
        x="0"
        y="-227.63782"
-       transform="translate(0,227.63782)"
        inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       transform="translate(0,227.63782)" />
     <rect
-       y="2.6171874e-06"
+       y="2.6171874e-006"
        x="2626.3967"
        height="1280"
        width="720"
        id="rect4386"
-       style="display:inline;fill:#00c5bb;fill-opacity:1;stroke:none"
+       style="fill:#00c5bb;fill-opacity:1;stroke:none;display:inline"
        inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\water.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -467,7 +574,7 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       style="display:inline;fill:#00c5bb;fill-opacity:1;stroke:none"
+       style="fill:#00c5bb;fill-opacity:1;stroke:none;display:inline"
        id="rect4593"
        width="720"
        height="1280"
@@ -482,10 +589,31 @@
        height="1280"
        width="720"
        id="rect4685"
-       style="display:inline;fill:#00c5bb;fill-opacity:1;stroke:none"
+       style="fill:#00c5bb;fill-opacity:1;stroke:none;display:inline"
        inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\calories.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       y="-227.63782"
+       x="0"
+       height="1280"
+       width="720"
+       id="rect6246"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       transform="translate(0,227.63782)" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       y="2.6171874e-006"
+       x="-1612.2035"
+       height="1280"
+       width="720"
+       id="rect6416"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -493,20 +621,17 @@
      inkscape:label="Layout1"
      style="display:inline">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.64903846"
-       id="rect3808"
-       width="322.10229"
-       height="322.10229"
-       x="27.679996"
-       y="218.1445"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       style="fill:#577fc5;fill-opacity:1;stroke:none"
+       id="rect6240"
+       width="720"
+       height="161.6244"
+       x="0"
+       y="2.6171874e-006" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3810"
-       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
-       transform="translate(-20,-45.714286)"
+       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       transform="translate(52.833008,-42.12538)"
        inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
@@ -516,341 +641,9 @@
            height="134.28571"
            x="174.28572"
            y="74.285713"
-           style="font-size:60px" /></flowRegion><flowPara
-         id="flowPara3817"
-         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light">Fitbit Flex</flowPara></flowRoot>    <rect
-       y="-873.34912"
-       x="27.679996"
-       height="322.10229"
-       width="322.10229"
-       id="rect3819"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.64903846"
-       transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       y="218.1445"
-       x="361.64627"
-       height="322.10229"
-       width="322.10229"
-       id="rect3821"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.64903846"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.64903846"
-       id="rect3823"
-       width="322.10229"
-       height="322.10229"
-       x="361.64627"
-       y="551.24683"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <g
-       id="g3864"
-       transform="translate(0,-37.142857)"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         ry="42.934151"
-         y="274.08804"
-         x="122.65949"
-         height="220.39531"
-         width="120.39531"
-         id="rect3825"
-         style="fill:#008080;fill-opacity:1;stroke:#000000;stroke-width:2.60468912;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <path
-         sodipodi:nodetypes="csssscc"
-         inkscape:connector-curvature="0"
-         id="rect3827"
-         d="m 243.63419,306.6129 0,18.20278 c 0,13.59117 -10.94163,24.5328 -24.5328,24.5328 l -72.48849,0 c -13.59117,0 -24.5328,-10.94163 -24.5328,-24.5328 l 0,-18.20278 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.44590652;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
-    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3830"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
-       transform="matrix(2.8673183,0,0,3.0779221,-737.85331,-874.13148)"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion3832"><rect
-           id="rect3834"
-           width="202.85715"
-           height="125.71429"
-           x="394.28571"
-           y="417.14285" /></flowRegion><flowPara
-         id="flowPara3836"
-         style="fill:#ffffff;-inkscape-font-specification:Leelawadee UI Semilight Light;font-family:Leelawadee UI Semilight;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal">2345</flowPara></flowRoot>    <g
-       id="g4625"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-134.73474,430.79988)"
-         d="m 474.28572,340 a 24.285715,20 0 1 1 -48.57144,0 24.285715,20 0 1 1 48.57144,0 z"
-         sodipodi:ry="20"
-         sodipodi:rx="24.285715"
-         sodipodi:cy="340"
-         sodipodi:cx="450"
-         id="path3838"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         sodipodi:type="arc" />
-      <path
-         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-140.79566,436.86079)"
-         d="m 602.85712,337.14285 a 54.285713,31.428572 0 1 1 -108.57142,0 54.285713,31.428572 0 1 1 108.57142,0 z"
-         sodipodi:ry="31.428572"
-         sodipodi:rx="54.285713"
-         sodipodi:cy="337.14285"
-         sodipodi:cx="548.57141"
-         id="path3840"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         sodipodi:type="arc" />
-      <path
-         sodipodi:type="arc"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="path3842"
-         sodipodi:cx="450"
-         sodipodi:cy="340"
-         sodipodi:rx="24.285715"
-         sodipodi:ry="20"
-         d="m 474.28572,340 a 24.285715,20 0 1 1 -48.57144,0 24.285715,20 0 1 1 48.57144,0 z"
-         transform="matrix(0.8533541,-0.52133173,0.52133173,0.8533541,-32.230316,312.13523)" />
-      <path
-         sodipodi:type="arc"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="path3844"
-         sodipodi:cx="548.57141"
-         sodipodi:cy="337.14285"
-         sodipodi:rx="54.285713"
-         sodipodi:ry="31.428572"
-         d="m 602.85712,337.14285 a 54.285713,31.428572 0 1 1 -108.57142,0 54.285713,31.428572 0 1 1 108.57142,0 z"
-         transform="matrix(0.8533541,-0.52133173,0.52133173,0.8533541,-39.544783,316.60378)" />
-    </g>
-    <path
-       style="fill:#ff0000;stroke:#000000;stroke-width:0.83025265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 182.01168,778.68271 c -44.41149,5.62699 -48.39214,-15.18203 -68.79237,-35.58226 -17.15172,-17.15172 16.62501,-54.57941 23.7215,-61.67591 5.43161,-5.43161 -8.75346,24.45664 -2.37215,30.83796 6.1209,6.1209 42.43139,14.50023 49.81516,7.11645 27.01364,-27.01364 -18.9772,-35.40058 -18.9772,-49.81516 0,-13.81445 53.4809,21.34936 42.69871,21.34936 -1.53001,0 1.91971,-24.17396 0,-26.09367 -16.37836,-16.37835 -23.30575,-49.39939 -37.95441,-64.04805 -13.53489,-13.5349 -16.44103,45.07085 -35.58226,45.07085 -3.73671,0 34.57775,-65.4157 37.95441,-68.79236 1.77377,-1.77377 49.72017,56.83662 54.55946,61.67591 10.06418,10.06418 -12.7303,49.06386 0,42.69871 9.80005,-4.90003 40.877,-88.21536 41.72872,-87.3902 38.58862,37.38544 -5.7606,114.18929 -20.37936,92.1345 -7.93084,15.86166 -7.53052,59.71782 -16.60505,68.79236 -14.15341,14.15341 -42.69423,11.85628 -61.67592,30.83796"
-       id="path3846"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssssssssssssscsc"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <flowRoot
-       transform="matrix(2.8673183,0,0,3.0779221,-737.85331,-874.13148)"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
-       id="flowRoot3848"
-       xml:space="preserve"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion3850"><rect
-           y="417.14285"
-           x="394.28571"
-           height="125.71429"
-           width="202.85715"
-           id="rect3852" /></flowRegion><flowPara
-         style="fill:#ffffff;-inkscape-font-specification:Leelawadee UI Semilight Light;font-family:Leelawadee UI Semilight;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
-         id="flowPara3854">2345</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3856"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
-       transform="matrix(2.8673183,0,0,3.0779221,-1017.8533,-531.27433)"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion3858"><rect
-           id="rect3860"
-           width="202.85715"
-           height="125.71429"
-           x="394.28571"
-           y="417.14285" /></flowRegion><flowPara
-         id="flowPara3862"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light">316</flowPara></flowRoot>    <rect
-       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3876"
-       width="220"
-       height="137.14285"
-       x="411.42856"
-       y="674.28571"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       y="-672.30011"
-       x="473.27124"
-       height="36.028919"
-       width="87.74321"
-       id="rect3878"
-       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.97108155;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       transform="scale(1,-1)"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       transform="scale(1,-1)"
-       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.66863191;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect3880"
-       width="264.18851"
-       height="35.331367"
-       x="387.90573"
-       y="-631.95135"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path3882"
-       sodipodi:cx="517.14288"
-       sodipodi:cy="742.85712"
-       sodipodi:rx="62.857143"
-       sodipodi:ry="48.57143"
-       d="m 580.00003,742.85712 a 62.857143,48.57143 0 1 1 -125.71429,0 62.857143,48.57143 0 1 1 125.71429,0 z"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <rect
-       y="-914.32635"
-       x="-62.226124"
-       height="16.462839"
-       width="58.756271"
-       id="rect3884"
-       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.53715897;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       transform="matrix(0.78641533,-0.61769809,-0.61769809,-0.78641533,0,0)"
-       inkscape:transform-center-y="24.888712"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <flowRoot
-       transform="matrix(2.7759191,0,0,2.9798096,-679.16804,-489.81628)"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
-       id="flowRoot3886"
-       xml:space="preserve"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion3888"><rect
-           y="417.14285"
-           x="394.28571"
-           height="125.71429"
-           width="202.85715"
-           id="rect3890" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light"
-         id="flowPara3892">234</flowPara></flowRoot>    <rect
-       y="884.34912"
-       x="27.679996"
-       height="322.10229"
-       width="322.10229"
-       id="rect3894"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.64903846"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <flowRoot
-       transform="translate(-51.428571,902.85715)"
-       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
-       id="flowRoot3896"
-       xml:space="preserve"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion3898"><rect
-           style="font-size:60px;fill:#ffffff"
-           y="74.285713"
-           x="174.28572"
-           height="134.28571"
-           width="494.28571"
-           id="rect3900" /></flowRegion><flowPara
-         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light"
-         id="flowPara3902">Z</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3904"
-       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
-       transform="matrix(0.77835498,0,0,0.77835498,33.444589,899.80263)"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion3906"><rect
-           id="rect3908"
-           width="494.28571"
-           height="134.28571"
-           x="174.28572"
-           y="74.285713"
            style="font-size:60px;fill:#ffffff" /></flowRegion><flowPara
-         id="flowPara3910"
-         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light">Z</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.66753247,0,0,0.66753247,107.30974,881.1325)"
-       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
-       id="flowRoot3912"
-       xml:space="preserve"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion3914"><rect
-           style="font-size:60px;fill:#ffffff"
-           y="74.285713"
-           x="174.28572"
-           height="134.28571"
-           width="494.28571"
-           id="rect3916" /></flowRegion><flowPara
-         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light"
-         id="flowPara3918">Z</flowPara></flowRoot>    <flowRoot
-       transform="matrix(2.8673183,0,0,3.0779221,-1017.8533,-211.27433)"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
-       id="flowRoot3920"
-       xml:space="preserve"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion3922"><rect
-           y="417.14285"
-           x="394.28571"
-           height="125.71429"
-           width="202.85715"
-           id="rect3924" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light"
-         id="flowPara3926">456</flowPara></flowRoot>    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.64903846"
-       id="rect3928"
-       width="322.10229"
-       height="322.10229"
-       x="361.64627"
-       y="884.34912"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.81244087;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
-       d="m 431.15536,1061.5781 -23.30281,64.73 -23.30281,-64.73 c -4.68217,-13.006 10.43302,-25.029 23.30281,-25.029 12.86978,0 27.98497,12.023 23.30281,25.029 z"
-       id="path3930"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="scsss"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:nodetypes="scsss"
-       inkscape:connector-curvature="0"
-       id="path3933"
-       d="m 636.86965,955.86381 -23.30281,64.72999 -23.30281,-64.72999 c -4.68217,-13.006 10.43302,-25.029 23.30281,-25.029 12.86978,0 27.98497,12.023 23.30281,25.029 z"
-       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.81244087000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:10.549119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 418.88804,1117.7051 C 680.04253,1079.8776 267.44818,1014.5603 611.15401,1014.5603"
-       id="path3935"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <flowRoot
+         id="flowPara3817"
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI">Catbit</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3939"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"><flowRegion
@@ -861,21 +654,6 @@
            x="404.061"
            y="1142.6193" /></flowRegion><flowPara
          id="flowPara3945" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3947"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
-       transform="matrix(2.8673183,0,0,3.0779221,-710.76693,-191.07128)"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><flowRegion
-         id="flowRegion3949"><rect
-           id="rect3951"
-           width="202.85715"
-           height="125.71429"
-           x="394.28571"
-           y="417.14285" /></flowRegion><flowPara
-         id="flowPara3953"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light">2734</flowPara></flowRoot>    <flowRoot
        transform="translate(2606.3966,-45.714286)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:'Iskoola Pota';-inkscape-font-specification:'Iskoola Pota';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4390"
@@ -1193,5 +971,1621 @@
        inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\calories.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+       id="rect6210"
+       width="312"
+       height="312"
+       x="32"
+       y="248"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       ry="14.142136"
+       rx="14.142136" />
+    <g
+       id="g6290"
+       transform="matrix(1.0714778,0,0,1.1673764,-0.06874321,-9.4361508)">
+      <rect
+         ry="3.9700792"
+         rx="3.9732726"
+         y="53.887596"
+         x="62.037666"
+         height="6.8422146"
+         width="77.710388"
+         id="rect6262"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.23450613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.23450613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect6286"
+         width="77.710388"
+         height="6.8422146"
+         x="62.037666"
+         y="73.887596"
+         rx="3.9732726"
+         ry="3.9700792" />
+      <rect
+         ry="3.9700792"
+         rx="3.9732726"
+         y="93.887596"
+         x="62.037666"
+         height="6.8422146"
+         width="77.710388"
+         id="rect6288"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.23450613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <rect
+       rx="14.142136"
+       ry="14.142136"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       y="248"
+       x="376"
+       height="312"
+       width="312"
+       id="rect6341"
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none" />
+    <rect
+       rx="14.142136"
+       ry="14.142136"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       y="592"
+       x="32"
+       height="312"
+       width="312"
+       id="rect6343"
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none" />
+    <rect
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+       id="rect6345"
+       width="312"
+       height="312"
+       x="376"
+       y="592"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       ry="14.142136"
+       rx="14.142136" />
+    <rect
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+       id="rect6347"
+       width="312"
+       height="312"
+       x="32"
+       y="936"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       ry="14.142136"
+       rx="14.142136" />
+    <rect
+       rx="14.142136"
+       ry="14.142136"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       y="936"
+       x="376"
+       height="312"
+       width="312"
+       id="rect6349"
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none" />
+    <rect
+       y="2.6171874e-006"
+       x="-1612.2035"
+       height="161.6244"
+       width="720"
+       id="rect6420"
+       style="fill:#577fc5;fill-opacity:1;stroke:none" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       transform="translate(-1559.3705,-42.12538)"
+       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       id="flowRoot6422"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6424"><rect
+           style="font-size:60px;fill:#ffffff"
+           y="74.285713"
+           x="174.28572"
+           height="134.28571"
+           width="494.28571"
+           id="rect6426" /></flowRegion><flowPara
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+         id="flowPara6428">Catbit</flowPara></flowRoot>    <rect
+       rx="15.229992"
+       ry="15.229992"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       y="224"
+       x="-1596.2035"
+       height="336"
+       width="336"
+       id="rect6430"
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none" />
+    <g
+       transform="matrix(1.0714778,0,0,1.1673764,-1612.2722,-9.4361508)"
+       id="g6432">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.23450613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect6434"
+         width="77.710388"
+         height="6.8422146"
+         x="62.037666"
+         y="53.887596"
+         rx="3.9732726"
+         ry="3.9700792" />
+      <rect
+         ry="3.9700792"
+         rx="3.9732726"
+         y="73.887596"
+         x="62.037666"
+         height="6.8422146"
+         width="77.710388"
+         id="rect6436"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.23450613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.23450613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect6438"
+         width="77.710388"
+         height="6.8422146"
+         x="62.037666"
+         y="93.887596"
+         rx="3.9732726"
+         ry="3.9700792" />
+    </g>
+    <rect
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+       id="rect6450"
+       width="336"
+       height="336"
+       x="-1244.2035"
+       y="224"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       ry="15.229992"
+       rx="15.229992" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="rect6418"
+       width="720"
+       height="1280"
+       x="-1612.2035"
+       y="2.6171874e-006"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6464"
+       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       transform="translate(-1657.0502,383.46476)"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6466"><rect
+           id="rect6468"
+           width="494.28571"
+           height="134.28571"
+           x="174.28572"
+           y="74.285713"
+           style="font-size:60px;fill:#ffffff" /></flowRegion><flowPara
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+         id="flowPara6874">26</flowPara></flowRoot>    <rect
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+       id="rect6476"
+       width="336"
+       height="336"
+       x="-3120.4893"
+       y="224"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       ry="15.229992"
+       rx="15.229992" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       transform="translate(-3247.7909,383.46476)"
+       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       id="flowRoot6478"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6480"><rect
+           style="font-size:60px;fill:#ffffff"
+           y="74.285713"
+           x="174.28572"
+           height="134.28571"
+           width="494.28571"
+           id="rect6482" /></flowRegion><flowPara
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+         id="flowPara6484">26 oz</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       transform="translate(-1332.0033,383.46476)"
+       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       id="flowRoot6579"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6581"><rect
+           style="font-size:60px;fill:#ffffff"
+           y="74.285713"
+           x="174.28572"
+           height="134.28571"
+           width="494.28571"
+           id="rect6583" /></flowRegion><flowPara
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+         id="flowPara6585">610</flowPara></flowRoot>    <rect
+       rx="15.229992"
+       ry="15.229992"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       y="224"
+       x="-1244.2035"
+       height="336"
+       width="336"
+       id="rect6591"
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6593"
+       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       transform="translate(-1332.0033,383.46476)"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion6595"><rect
+           id="rect6597"
+           width="494.28571"
+           height="134.28571"
+           x="174.28572"
+           y="74.285713"
+           style="font-size:60px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara6599"
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI">610</flowPara></flowRoot>    <g
+       id="g6611"
+       transform="translate(-667.67644,0)">
+      <rect
+         rx="15.229992"
+         ry="15.229992"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         y="224"
+         x="-2100.8127"
+         height="336"
+         width="336"
+         id="rect6601"
+         style="fill:#a3e7c3;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6603"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         transform="translate(-2188.6127,383.46476)"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><flowRegion
+           id="flowRegion6605"><rect
+             id="rect6607"
+             width="494.28571"
+             height="134.28571"
+             x="174.28572"
+             y="74.285713"
+             style="font-size:60px;fill:#ffffff" /></flowRegion><flowPara
+           id="flowPara6609"
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI">610</flowPara></flowRoot>    </g>
+    <g
+       id="g6664"
+       transform="translate(-670.25997,1.5152288)">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -1976.3273,398.25759 c -5.0816,7.9447 -19.6594,21.51649 -28.8788,15.61953 -9.2195,-5.89697 -3.0115,-24.82223 2.0701,-32.76694 z"
+         id="path6652"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cacc" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         d="m -1981.5025,337.98788 c -6.9612,11.11634 -10.7833,22.61864 -11.2046,31.74919 l 22.5207,14.71308 c 7.9386,-4.2195 16.5447,-12.5963 23.5059,-23.71263 12.5857,-20.09808 14.9913,-41.47993 5.3753,-47.76219 -9.6161,-6.28223 -27.6116,4.91448 -40.1973,25.01255 z"
+         id="path6654"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g6668"
+       transform="matrix(0.95515925,0.29609259,-0.29609259,0.95515925,-554.46639,583.4121)">
+      <path
+         sodipodi:nodetypes="cacc"
+         inkscape:connector-curvature="0"
+         id="path6670"
+         d="m -1976.3273,398.25759 c -5.0816,7.9447 -19.6594,21.51649 -28.8788,15.61953 -9.2195,-5.89697 -3.0115,-24.82223 2.0701,-32.76694 z"
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6672"
+         d="m -1981.5025,337.98788 c -6.9612,11.11634 -10.7833,22.61864 -11.2046,31.74919 l 22.5207,14.71308 c 7.9386,-4.2195 16.5447,-12.5963 23.5059,-23.71263 12.5857,-20.09808 14.9913,-41.47993 5.3753,-47.76219 -9.6161,-6.28223 -27.6116,4.91448 -40.1973,25.01255 z"
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(-315.67644,0)"
+       id="g6674">
+      <rect
+         style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+         id="rect6676"
+         width="336"
+         height="336"
+         x="-2100.8127"
+         y="224"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         ry="15.229992"
+         rx="15.229992" />
+      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         transform="translate(-2188.6127,383.46476)"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         id="flowRoot6678"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6680"><rect
+             style="font-size:60px;fill:#ffffff"
+             y="74.285713"
+             x="174.28572"
+             height="134.28571"
+             width="494.28571"
+             id="rect6682" /></flowRegion><flowPara
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+           id="flowPara6684">610</flowPara></flowRoot>    </g>
+    <g
+       id="g6751"
+       transform="translate(352.77071,349.71724)">
+      <g
+         transform="translate(-19.192899,34.850263)"
+         id="g6729">
+        <path
+           style="fill:#ffffff;stroke:none"
+           d="m -2615.6225,5.2607736 c -1.4744,5.1589294 -2.4376,15.4884504 0.7163,23.6153234 4.5992,11.851281 2.7505,28.61439 -7.6761,32.6429 -12.4193,4.798431 -26.2325,-11.115158 -32.9106,-22.633274 -9.4723,-16.337538 -14.9849,-40.6441424 -4.6682,-56.462087 9.9786,-15.299721 37.9146,-29.754357 51.7981,-17.884125 10.4796,8.959929 -4.5876,31.3720886 -7.2595,40.7212626 z"
+           id="path6689"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssaaaas" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;stroke:none"
+           id="path6692"
+           sodipodi:cx="-2631.1948"
+           sodipodi:cy="-95.575226"
+           sodipodi:rx="9.3439112"
+           sodipodi:ry="7.323606"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           transform="matrix(0.87025034,0.71673183,-0.95454115,1.5584077,-403.15267,1976.0167)" />
+        <path
+           transform="matrix(0.60940205,0.53299522,-0.66842759,1.1589047,-1082.5071,1456.7087)"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           sodipodi:ry="7.323606"
+           sodipodi:rx="9.3439112"
+           sodipodi:cy="-95.575226"
+           sodipodi:cx="-2631.1948"
+           id="path6721"
+           style="fill:#ffffff;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;stroke:none"
+           id="path6723"
+           sodipodi:cx="-2631.1948"
+           sodipodi:cy="-95.575226"
+           sodipodi:rx="9.3439112"
+           sodipodi:ry="7.323606"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           transform="matrix(0.53694419,0.46962213,-0.5889516,1.021111,-1282.5262,1281.3361)" />
+        <path
+           transform="matrix(0.46448633,0.40624904,-0.50947561,0.88331732,-1479.6881,1109.8921)"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           sodipodi:ry="7.323606"
+           sodipodi:rx="9.3439112"
+           sodipodi:cy="-95.575226"
+           sodipodi:cx="-2631.1948"
+           id="path6725"
+           style="fill:#ffffff;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;stroke:none"
+           id="path6727"
+           sodipodi:cx="-2631.1948"
+           sodipodi:cy="-95.575226"
+           sodipodi:rx="9.3439112"
+           sodipodi:ry="7.323606"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           transform="matrix(0.46448633,0.40624904,-0.50947561,0.88331732,-1491.4739,1121.6778)" />
+      </g>
+      <g
+         id="g6737"
+         transform="matrix(-0.83729979,-0.54674405,-0.54674405,0.83729979,-4767.0555,-1436.1421)">
+        <path
+           sodipodi:nodetypes="ssaaaas"
+           inkscape:connector-curvature="0"
+           id="path6739"
+           d="m -2615.6225,5.2607736 c -1.4744,5.1589294 -2.4376,15.4884504 0.7163,23.6153234 4.5992,11.851281 2.7505,28.61439 -7.6761,32.6429 -12.4193,4.798431 -26.2325,-11.115158 -32.9106,-22.633274 -9.4723,-16.337538 -14.9849,-40.6441424 -4.6682,-56.462087 9.9786,-15.299721 37.9146,-29.754357 51.7981,-17.884125 10.4796,8.959929 -4.5876,31.3720886 -7.2595,40.7212626 z"
+           style="fill:#ffffff;stroke:none" />
+        <path
+           transform="matrix(0.87025034,0.71673183,-0.95454115,1.5584077,-403.15267,1976.0167)"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           sodipodi:ry="7.323606"
+           sodipodi:rx="9.3439112"
+           sodipodi:cy="-95.575226"
+           sodipodi:cx="-2631.1948"
+           id="path6741"
+           style="fill:#ffffff;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;stroke:none"
+           id="path6743"
+           sodipodi:cx="-2631.1948"
+           sodipodi:cy="-95.575226"
+           sodipodi:rx="9.3439112"
+           sodipodi:ry="7.323606"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           transform="matrix(0.60940205,0.53299522,-0.66842759,1.1589047,-1082.5071,1456.7087)" />
+        <path
+           transform="matrix(0.53694419,0.46962213,-0.5889516,1.021111,-1282.5262,1281.3361)"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           sodipodi:ry="7.323606"
+           sodipodi:rx="9.3439112"
+           sodipodi:cy="-95.575226"
+           sodipodi:cx="-2631.1948"
+           id="path6745"
+           style="fill:#ffffff;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;stroke:none"
+           id="path6747"
+           sodipodi:cx="-2631.1948"
+           sodipodi:cy="-95.575226"
+           sodipodi:rx="9.3439112"
+           sodipodi:ry="7.323606"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           transform="matrix(0.46448633,0.40624904,-0.50947561,0.88331732,-1479.6881,1109.8921)" />
+        <path
+           transform="matrix(0.46448633,0.40624904,-0.50947561,0.88331732,-1491.4739,1121.6778)"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           sodipodi:ry="7.323606"
+           sodipodi:rx="9.3439112"
+           sodipodi:cy="-95.575226"
+           sodipodi:cx="-2631.1948"
+           id="path6749"
+           style="fill:#ffffff;stroke:none"
+           sodipodi:type="arc" />
+      </g>
+    </g>
+    <g
+       id="g6782"
+       transform="translate(-1524.2858,0)">
+      <rect
+         style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+         id="rect6784"
+         width="336"
+         height="336"
+         x="-1596.2035"
+         y="576"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         ry="15.229992"
+         rx="15.229992" />
+      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         transform="translate(-1703.681,735.41593)"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         id="flowRoot6786"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6788"><rect
+             style="font-size:60px;fill:#ffffff"
+             y="74.285713"
+             x="174.28572"
+             height="134.28571"
+             width="494.28571"
+             id="rect6790" /></flowRegion><flowPara
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+           id="flowPara6792">2911</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -2958.4967,602.54362 c -85.7107,135.46756 -16.8921,92.30635 -30.7117,174.11406 -60.6822,-1.93889 -29.4149,-87.75699 -18.4732,-116.65467 -40.8756,31.05762 -51.9126,70.67877 -37.812,105.15594 12.1251,29.6468 54.0036,50.61788 86.5604,41.72348 -49.9254,-95.2267 33.0485,-31.54556 -1.8492,-161.41025 8.7055,25.21358 64.5879,96.19574 9.5034,158.86876 15.4589,-4.1961 53.6866,-31.13294 57.3728,-45.43469 12.6495,-49.07837 -39.3693,-80.48502 -64.5905,-156.36263 z"
+       id="path6794"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccacccsc" />
+    <g
+       transform="translate(-1876.2858,0)"
+       id="g6802">
+      <rect
+         rx="15.229992"
+         ry="15.229992"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         y="576"
+         x="-1596.2035"
+         height="336"
+         width="336"
+         id="rect6804"
+         style="fill:#a3e7c3;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6806"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         transform="translate(-1703.681,735.41593)"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><flowRegion
+           id="flowRegion6808"><rect
+             id="rect6810"
+             width="494.28571"
+             height="134.28571"
+             x="174.28572"
+             y="74.285713"
+             style="font-size:60px;fill:#ffffff" /></flowRegion><flowPara
+           id="flowPara6812"
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI">2911</flowPara></flowRoot>    </g>
+    <g
+       id="g6849"
+       transform="matrix(1.1118674,0,0,1.1118674,373.81257,-69.940563)">
+      <path
+         style="fill:#ffffff;stroke:none"
+         d="m -3287.3916,625.87557 c -12.4148,2.67259 -28.08,23.01824 -32.1975,41.65505 -2.1751,9.84487 1.0317,21.6148 6.3851,29.11209 5.9136,8.28187 18.1339,18.55669 19.4877,31.82438 0.804,7.87912 -1.8649,18.09728 -7.4051,21.94562 -10.9744,7.62294 -29.3487,2.46064 -37.1604,-7.4696 -12.4374,-15.81039 14.624,-35.53317 2.3726,-60.30159 -0.9306,31.81454 -28.6353,41.56184 -21.1677,62.12542 7.496,20.64176 35.5119,36.08021 56.3127,34.19553 16.672,-1.51056 35.9154,-15.51018 41.5253,-35.25955 10.9713,-38.62339 -60.8509,-77.17075 -28.1527,-117.82735 z"
+         id="path6814"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssaaacaaac" />
+      <path
+         sodipodi:nodetypes="ssscss"
+         inkscape:connector-curvature="0"
+         id="path6832"
+         d="m -3301.3283,741.79564 c -2.8978,4.73353 -9.6493,7.27748 -15.1741,6.74803 -14.5908,-1.39825 -22.8974,-12.72858 -18.8889,-22.02961 4.5906,-10.65176 9.7284,-27.41271 10.8621,-49.02306 1.1314,18.67416 11.4022,27.39331 18.7761,36.82506 6.3661,8.14274 10.6184,17.3623 4.4248,27.47958 z"
+         style="fill:#ffffff;stroke:none" />
+    </g>
+    <g
+       id="g6878">
+      <rect
+         style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+         id="rect6454"
+         width="336"
+         height="336"
+         x="-1244.2035"
+         y="576"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         ry="15.229992"
+         rx="15.229992" />
+      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         transform="translate(-1331.9545,735.41593)"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         id="flowRoot6858"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6860"><rect
+             style="font-size:60px;fill:#ffffff"
+             y="74.285713"
+             x="174.28572"
+             height="134.28571"
+             width="494.28571"
+             id="rect6862" /></flowRegion><flowPara
+           id="flowPara6870"
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI">280</flowPara></flowRoot>    </g>
+    <g
+       id="g6885"
+       transform="translate(-1524.2858,0)">
+      <rect
+         rx="15.229992"
+         ry="15.229992"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         y="576"
+         x="-1244.2035"
+         height="336"
+         width="336"
+         id="rect6887"
+         style="fill:#a3e7c3;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot6889"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         transform="translate(-1331.9545,735.41593)"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><flowRegion
+           id="flowRegion6891"><rect
+             id="rect6893"
+             width="494.28571"
+             height="134.28571"
+             x="174.28572"
+             y="74.285713"
+             style="font-size:60px;fill:#ffffff" /></flowRegion><flowPara
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+           id="flowPara6895">280</flowPara></flowRoot>    </g>
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect6897"
+       width="202.84566"
+       height="169.27422"
+       x="-2701.9121"
+       y="618.36786"
+       rx="15.683531"
+       ry="17.014229" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="M -2600.5 639.8125 C -2621.5821 639.8145 -2659.625 662.28125 -2659.625 662.28125 C -2660.2114 662.69402 -2658.3218 668.65714 -2655.5 676.59375 C -2654.6253 675.99347 -2653.6994 675.41335 -2652.75 674.84375 L -2652.75 667.15625 C -2652.75 665.89709 -2651.7592 664.90625 -2650.5 664.90625 C -2649.2408 664.90625 -2648.2188 665.89709 -2648.2188 667.15625 L -2648.2188 672.375 C -2646.4884 671.52264 -2644.6539 670.72523 -2642.75 669.96875 L -2642.75 663.15625 C -2642.75 661.89709 -2641.7592 660.90625 -2640.5 660.90625 C -2639.2408 660.90625 -2638.2188 661.89709 -2638.2188 663.15625 L -2638.2188 668.28125 C -2636.4587 667.6931 -2634.6201 667.16082 -2632.75 666.65625 L -2632.75 660.15625 C -2632.75 658.89709 -2631.7592 657.90625 -2630.5 657.90625 C -2629.2408 657.90625 -2628.2188 658.89709 -2628.2188 660.15625 L -2628.2188 665.5625 C -2626.4342 665.16461 -2624.6105 664.8236 -2622.75 664.5 L -2622.75 657.15625 C -2622.75 655.89709 -2621.7592 654.90625 -2620.5 654.90625 C -2619.2408 654.90625 -2618.2188 655.89709 -2618.2188 657.15625 L -2618.2188 663.78125 C -2616.4277 663.53788 -2614.5977 663.35875 -2612.75 663.1875 L -2612.75 654.15625 C -2612.75 652.89709 -2611.7592 651.90625 -2610.5 651.90625 C -2609.2408 651.90625 -2608.2188 652.89709 -2608.2188 654.15625 L -2608.2188 662.84375 C -2606.4171 662.7392 -2604.5868 662.66384 -2602.75 662.625 L -2602.75 650.15625 C -2602.75 648.89709 -2601.7592 647.90625 -2600.5 647.90625 C -2599.2408 647.90625 -2598.2188 648.89709 -2598.2188 650.15625 L -2598.2188 662.625 C -2596.3742 662.65545 -2594.5546 662.74137 -2592.75 662.84375 L -2592.75 654.15625 C -2592.75 652.89709 -2591.7592 651.90625 -2590.5 651.90625 C -2589.2408 651.90625 -2588.2188 652.89709 -2588.2188 654.15625 L -2588.2188 663.1875 C -2586.3654 663.35655 -2584.5477 663.57061 -2582.75 663.8125 L -2582.75 657.15625 C -2582.75 655.89709 -2581.7592 654.90625 -2580.5 654.90625 C -2579.2408 654.90625 -2578.2188 655.89709 -2578.2188 657.15625 L -2578.2188 664.5 C -2576.3592 664.82126 -2574.5327 665.16524 -2572.75 665.5625 L -2572.75 660.15625 C -2572.75 658.89709 -2571.7592 657.90625 -2570.5 657.90625 C -2569.2408 657.90625 -2568.2188 658.89709 -2568.2188 660.15625 L -2568.2188 666.6875 C -2566.3375 667.19361 -2564.5197 667.75405 -2562.75 668.34375 L -2562.75 663.15625 C -2562.75 661.89709 -2561.7592 660.90625 -2560.5 660.90625 C -2559.2408 660.90625 -2558.2188 661.89709 -2558.2188 663.15625 L -2558.2188 670 C -2556.3029 670.75916 -2554.491 671.58476 -2552.75 672.4375 L -2552.75 667.15625 C -2552.75 665.89709 -2551.7592 664.90625 -2550.5 664.90625 C -2549.2408 664.90625 -2548.2188 665.89709 -2548.2188 667.15625 L -2548.2188 674.84375 C -2547.2752 675.40711 -2546.3688 675.9982 -2545.5 676.59375 C -2542.6738 668.65714 -2540.7568 662.69385 -2541.3438 662.28125 C -2541.3438 662.28125 -2579.4081 639.81065 -2600.5 639.8125 z "
+       id="path6904" />
+    <g
+       transform="translate(-1172.2858,0)"
+       id="g6946">
+      <rect
+         style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+         id="rect6948"
+         width="336"
+         height="336"
+         x="-1244.2035"
+         y="576"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         ry="15.229992"
+         rx="15.229992" />
+      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         transform="translate(-1331.9545,735.41593)"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         id="flowRoot6950"
+         xml:space="preserve"><flowRegion
+           id="flowRegion6952"><rect
+             style="font-size:60px;fill:#ffffff"
+             y="74.285713"
+             x="174.28572"
+             height="134.28571"
+             width="494.28571"
+             id="rect6954" /></flowRegion><flowPara
+           id="flowPara6956"
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI">280</flowPara></flowRoot>    </g>
+    <g
+       id="g7006"
+       transform="translate(-2.5465088e-4,0)">
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect6958"
+         width="202.84566"
+         height="169.27422"
+         x="-2349.9119"
+         y="618.36786"
+         rx="15.683531"
+         ry="17.014229" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6960"
+         d="m -2248.5042,639.8125 c -21.0821,0.002 -59.125,22.46875 -59.125,22.46875 -0.5864,0.41277 1.3032,15.71964 4.125,23.65625 15.5192,-10.05083 36.8168,-13.26281 52.75,-13.96875 l 4.5312,0 c 18.062,0.72931 37.6131,3.63456 52.7188,13.96875 2.8262,-7.93661 4.7432,-23.24365 4.1562,-23.65625 0,0 -38.0643,-22.4706 -59.1562,-22.46875 z m 18.3438,13.40625 c 0.393,-0.0234 0.791,0.0164 1.1874,0.15625 1.5861,0.55935 2.4343,2.28895 1.875,3.875 l -4.5312,12.875 c -2.0931,-0.25629 -4.1633,-0.48438 -6.25,-0.65625 l 5.0312,-14.25 c 0.4196,-1.18954 1.508,-1.9299 2.6876,-2 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       rx="15.229992"
+       ry="15.229992"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       y="928"
+       x="-1596.2035"
+       height="336"
+       width="336"
+       id="rect6456"
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7010"
+       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       transform="translate(-1629.5844,1087.4159)"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion7012"><rect
+           id="rect7014"
+           width="494.28571"
+           height="134.28571"
+           x="174.28572"
+           y="74.285713"
+           style="font-size:60px;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara7016"
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI">8</flowPara></flowRoot>    <rect
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+       id="rect7027"
+       width="336"
+       height="336"
+       x="-3120.4893"
+       y="928"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       ry="15.229992"
+       rx="15.229992" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       transform="translate(-3153.8702,1087.4159)"
+       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       id="flowRoot7029"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7031"><rect
+           style="font-size:60px;fill:#ffffff"
+           y="74.285713"
+           x="174.28572"
+           height="134.28571"
+           width="494.28571"
+           id="rect7033" /></flowRegion><flowPara
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+         id="flowPara7035">8</flowPara></flowRoot>    <g
+       id="g7180">
+      <path
+         sodipodi:nodetypes="sccssssccssss"
+         inkscape:connector-curvature="0"
+         id="rect7049"
+         d="m -3038.3038,1039.8519 0,55.6503 171.7926,0 0,-29.2418 c 0,-7.5242 17.8484,-7.5242 17.8484,0 l 0,85.8877 c 0,7.5242 -17.8484,7.5242 -17.8484,0 l 0,-26.089 -171.7926,0 0,26.089 c 0,7.5242 -18.012,7.5242 -18.012,0 l 0,-112.2962 c 0,-7.5242 18.012,-7.5242 18.012,0 z"
+         style="fill:#ffffff;stroke:none" />
+      <path
+         transform="matrix(0.93634027,0,0,0.93634027,-201.62853,112.9063)"
+         d="m -2984.4957,1024.4314 c 0,11.1578 -9.0452,20.203 -20.203,20.203 -11.1579,0 -20.2031,-9.0452 -20.2031,-20.203 0,-11.1578 9.0452,-20.2031 20.2031,-20.2031 11.1578,0 20.203,9.0453 20.203,20.2031 z"
+         sodipodi:ry="20.203051"
+         sodipodi:rx="20.203051"
+         sodipodi:cy="1024.4314"
+         sodipodi:cx="-3004.6987"
+         id="path7052"
+         style="fill:#ffffff;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="cssccc"
+         inkscape:connector-curvature="0"
+         id="rect7054"
+         d="m -2991.6732,1053.2053 92.3597,0 c 7.3864,0 27.2514,2.1601 28.3777,22.07 l 0,15.7643 -120.7374,0 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect7085"
+         d="m -3006.6921,965.92796 c -7.1383,0 -12.8752,5.73705 -12.8752,12.87516 l 0,55.96868 c 0,6.2258 4.3779,10.8628 10.2314,12.082 0.6574,-6.5128 6.1038,-12.082 12.7959,-12.082 l 111.2764,0 c 2.8895,0 12.8487,-1.9487 12.8487,-10.2315 0.1914,-18.7929 0,-26.8417 0,-45.73718 -2e-4,-7.13811 -5.6841,-12.87516 -12.8224,-12.87516 l -121.4548,0 z m 18.9559,12.55792 30.4562,0 0,1.1897 -24.9836,36.93352 24.4019,0 0,4.5208 -31.8574,0 0,-1.4012 24.7721,-36.72197 -22.7892,0 0,-4.52085 z m 34.4484,12.18779 23.503,0 0,1.4012 -18.0305,24.90443 17.8454,0 0,4.1506 -25.01,0 0,-1.5068 18.0305,-24.77227 -16.3384,0 0,-4.17716 z m 27.6009,0 23.5031,0 0,1.4012 -18.0306,24.90443 17.8455,0 0,4.1506 -25.01,0 0,-1.5068 18.0304,-24.77227 -16.3384,0 0,-4.17716 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g7108">
+      <rect
+         rx="15.229992"
+         ry="15.229992"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         y="928"
+         x="-1244.2035"
+         height="336"
+         width="336"
+         id="rect6458"
+         style="fill:#a3e7c3;fill-opacity:1;stroke:none" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot7100"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         transform="translate(-1306.6615,1087.4159)"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><flowRegion
+           id="flowRegion7102"><rect
+             id="rect7104"
+             width="494.28571"
+             height="134.28571"
+             x="174.28572"
+             y="74.285713"
+             style="font-size:60px;fill:#ffffff" /></flowRegion><flowPara
+           id="flowPara7106"
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI">15</flowPara></flowRoot>    </g>
+    <g
+       id="g7115"
+       transform="translate(-1524.2858,0)">
+      <rect
+         style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+         id="rect7117"
+         width="336"
+         height="336"
+         x="-1244.2035"
+         y="928"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         ry="15.229992"
+         rx="15.229992" />
+      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         transform="translate(-1306.6615,1087.4159)"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         id="flowRoot7119"
+         xml:space="preserve"><flowRegion
+           id="flowRegion7121"><rect
+             style="font-size:60px;fill:#ffffff"
+             y="74.285713"
+             x="174.28572"
+             height="134.28571"
+             width="494.28571"
+             id="rect7123" /></flowRegion><flowPara
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+           id="flowPara7125">15</flowPara></flowRoot>    </g>
+    <g
+       id="g7170">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -2525.3592,963.47393 c -13.8276,0 -30.4861,11.1605 -33.3338,24.6917 -4.6184,21.94447 33.3338,58.43697 33.3338,58.43697 0,0 37.9522,-36.4925 33.3338,-58.43697 -2.8477,-13.5312 -19.5062,-24.6917 -33.3338,-24.6917 z m 0,14.4035 c 9.3185,0 16.8727,7.5542 16.8727,16.8726 0,9.31847 -7.5542,16.87267 -16.8727,16.87267 -9.3185,0 -16.8727,-7.5542 -16.8727,-16.87267 0,-9.3184 7.5542,-16.8726 16.8727,-16.8726 z"
+         id="path7135"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cssc"
+         inkscape:connector-curvature="0"
+         id="path7137"
+         d="m -2660.6092,1132.9739 c 70.5,23 128.1016,12.0416 127.1213,-6.1152 -2.011,-37.2483 -86.3867,-35.5987 -78.6525,-59.546 5.3414,-16.5385 62.1219,-12 72.7886,-9.5"
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7139"
+         d="m -2535.3592,1043.9114 c -6.7782,2.6124 -11.4375,7.873 -11.4375,13.9687 0,8.6892 9.4132,15.75 21.0313,15.75 11.618,0 21.0624,-7.0608 21.0624,-15.75 0,-5.9144 -4.3929,-11.0313 -10.8437,-13.7187 -5.507,6.2931 -9.8125,10.4375 -9.8125,10.4375 0,0 -4.3951,-4.263 -10,-10.6875 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7148"
+         d="m -2675.6194,1033.831 c -13.8276,0 -30.4861,11.1605 -33.3338,24.6917 -4.6184,21.9445 33.3338,58.437 33.3338,58.437 0,0 37.9522,-36.4925 33.3338,-58.437 -2.8477,-13.5312 -19.5062,-24.6917 -33.3338,-24.6917 z m 0,14.4035 c 9.3185,0 16.8727,7.5542 16.8727,16.8726 0,9.3185 -7.5542,16.8727 -16.8727,16.8727 -9.3185,0 -16.8727,-7.5542 -16.8727,-16.8727 0,-9.3184 7.5542,-16.8726 16.8727,-16.8726 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -2685.6194,1114.2685 c -6.7782,2.6124 -11.4375,7.873 -11.4375,13.9687 0,8.6892 9.4132,15.75 21.0313,15.75 11.618,0 21.0624,-7.0608 21.0624,-15.75 0,-5.9144 -4.3929,-11.0313 -10.8437,-13.7187 -5.507,6.2931 -9.8125,10.4375 -9.8125,10.4375 0,0 -4.3951,-4.263 -10,-10.6875 z"
+         id="path7150"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g7186"
+       transform="translate(1524.2858,0)">
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect7188"
+         width="87.143394"
+         height="124.28568"
+         x="-2996.061"
+         y="309.85715"
+         rx="15.229992"
+         ry="15.229992" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+         d="m -2971.5581,275.99107 c -8.4374,0 -15.2187,6.81259 -15.2187,15.25 l 0,6.25 c 1.8233,-0.76864 3.8282,-1.21875 5.9375,-1.21875 l 56.6875,0 c 2.1093,0 4.1142,0.45011 5.9375,1.21875 l 0,-6.25 c 0,-8.43741 -6.7814,-15.25 -15.2188,-15.25 z"
+         id="path7190"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sscsscsss" />
+      <path
+         style="fill:#ffffff;stroke:none"
+         d="m -2971.0893,344.35692 c 0.01,0.0934 0.031,0.18248 0.031,0.27721 0,-0.0949 0.021,-0.1837 0.031,-0.27721 z m 0.031,0.27721 c 0,2.67597 -4.1528,4.85925 -9.2812,4.85925 -3.2052,0 -6.05,-0.84726 -7.7188,-2.13612 l 0,71.91675 c 0,2.16801 1.9806,6.91349 6.9376,6.91349 l 57.25,0 c 4.9564,0 6.9374,-4.74548 6.9374,-6.91349 l 0,-71.91675 c -1.6684,1.28886 -4.5135,2.13612 -7.7187,2.13612 -5.1284,0 -9.2813,-2.18328 -9.2813,-4.85925 0,2.67597 -4.1528,4.85925 -9.2812,4.85925 -5.1284,0 -9.2812,-2.18328 -9.2812,-4.85925 0,2.67597 -4.1529,4.85925 -9.2813,4.85925 -5.1284,0 -9.2813,-2.18328 -9.2813,-4.85925 z m 18.5626,0 c 0,-0.0947 0.021,-0.18383 0.031,-0.27721 l -0.062,0 c 0.01,0.0934 0.031,0.18248 0.031,0.27721 z m 18.5624,0 c 0,-0.0947 0.021,-0.18383 0.031,-0.27721 l -0.062,0 c 0.01,0.0935 0.031,0.18235 0.031,0.27721 z"
+         id="path7192"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccscsssscscscsccccccccc" />
+      <rect
+         ry="15.229992"
+         rx="15.229992"
+         y="309.85715"
+         x="-2996.061"
+         height="124.28568"
+         width="87.143394"
+         id="rect7194"
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(1525.0564,349.71724)"
+       id="g7270">
+      <g
+         id="g7272"
+         transform="translate(-19.192899,34.850263)">
+        <path
+           sodipodi:nodetypes="ssaaaas"
+           inkscape:connector-curvature="0"
+           id="path7274"
+           d="m -2615.6225,5.2607736 c -1.4744,5.1589294 -2.4376,15.4884504 0.7163,23.6153234 4.5992,11.851281 2.7505,28.61439 -7.6761,32.6429 -12.4193,4.798431 -26.2325,-11.115158 -32.9106,-22.633274 -9.4723,-16.337538 -14.9849,-40.6441424 -4.6682,-56.462087 9.9786,-15.299721 37.9146,-29.754357 51.7981,-17.884125 10.4796,8.959929 -4.5876,31.3720886 -7.2595,40.7212626 z"
+           style="fill:#ffffff;stroke:none" />
+        <path
+           transform="matrix(0.87025034,0.71673183,-0.95454115,1.5584077,-403.15267,1976.0167)"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           sodipodi:ry="7.323606"
+           sodipodi:rx="9.3439112"
+           sodipodi:cy="-95.575226"
+           sodipodi:cx="-2631.1948"
+           id="path7276"
+           style="fill:#ffffff;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;stroke:none"
+           id="path7278"
+           sodipodi:cx="-2631.1948"
+           sodipodi:cy="-95.575226"
+           sodipodi:rx="9.3439112"
+           sodipodi:ry="7.323606"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           transform="matrix(0.60940205,0.53299522,-0.66842759,1.1589047,-1082.5071,1456.7087)" />
+        <path
+           transform="matrix(0.53694419,0.46962213,-0.5889516,1.021111,-1282.5262,1281.3361)"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           sodipodi:ry="7.323606"
+           sodipodi:rx="9.3439112"
+           sodipodi:cy="-95.575226"
+           sodipodi:cx="-2631.1948"
+           id="path7280"
+           style="fill:#ffffff;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;stroke:none"
+           id="path7282"
+           sodipodi:cx="-2631.1948"
+           sodipodi:cy="-95.575226"
+           sodipodi:rx="9.3439112"
+           sodipodi:ry="7.323606"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           transform="matrix(0.46448633,0.40624904,-0.50947561,0.88331732,-1479.6881,1109.8921)" />
+        <path
+           transform="matrix(0.46448633,0.40624904,-0.50947561,0.88331732,-1491.4739,1121.6778)"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           sodipodi:ry="7.323606"
+           sodipodi:rx="9.3439112"
+           sodipodi:cy="-95.575226"
+           sodipodi:cx="-2631.1948"
+           id="path7284"
+           style="fill:#ffffff;stroke:none"
+           sodipodi:type="arc" />
+      </g>
+      <g
+         transform="matrix(-0.83729979,-0.54674405,-0.54674405,0.83729979,-4767.0555,-1436.1421)"
+         id="g7286">
+        <path
+           style="fill:#ffffff;stroke:none"
+           d="m -2615.6225,5.2607736 c -1.4744,5.1589294 -2.4376,15.4884504 0.7163,23.6153234 4.5992,11.851281 2.7505,28.61439 -7.6761,32.6429 -12.4193,4.798431 -26.2325,-11.115158 -32.9106,-22.633274 -9.4723,-16.337538 -14.9849,-40.6441424 -4.6682,-56.462087 9.9786,-15.299721 37.9146,-29.754357 51.7981,-17.884125 10.4796,8.959929 -4.5876,31.3720886 -7.2595,40.7212626 z"
+           id="path7288"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ssaaaas" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;stroke:none"
+           id="path7290"
+           sodipodi:cx="-2631.1948"
+           sodipodi:cy="-95.575226"
+           sodipodi:rx="9.3439112"
+           sodipodi:ry="7.323606"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           transform="matrix(0.87025034,0.71673183,-0.95454115,1.5584077,-403.15267,1976.0167)" />
+        <path
+           transform="matrix(0.60940205,0.53299522,-0.66842759,1.1589047,-1082.5071,1456.7087)"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           sodipodi:ry="7.323606"
+           sodipodi:rx="9.3439112"
+           sodipodi:cy="-95.575226"
+           sodipodi:cx="-2631.1948"
+           id="path7292"
+           style="fill:#ffffff;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;stroke:none"
+           id="path7294"
+           sodipodi:cx="-2631.1948"
+           sodipodi:cy="-95.575226"
+           sodipodi:rx="9.3439112"
+           sodipodi:ry="7.323606"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           transform="matrix(0.53694419,0.46962213,-0.5889516,1.021111,-1282.5262,1281.3361)" />
+        <path
+           transform="matrix(0.46448633,0.40624904,-0.50947561,0.88331732,-1479.6881,1109.8921)"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           sodipodi:ry="7.323606"
+           sodipodi:rx="9.3439112"
+           sodipodi:cy="-95.575226"
+           sodipodi:cx="-2631.1948"
+           id="path7296"
+           style="fill:#ffffff;stroke:none"
+           sodipodi:type="arc" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#ffffff;stroke:none"
+           id="path7298"
+           sodipodi:cx="-2631.1948"
+           sodipodi:cy="-95.575226"
+           sodipodi:rx="9.3439112"
+           sodipodi:ry="7.323606"
+           d="m -2621.8509,-95.575226 c 0,4.044716 -4.1834,7.323606 -9.3439,7.323606 -5.1605,0 -9.3439,-3.27889 -9.3439,-7.323606 0,-4.044716 4.1834,-7.323604 9.3439,-7.323604 5.1605,0 9.3439,3.278888 9.3439,7.323604 z"
+           transform="matrix(0.46448633,0.40624904,-0.50947561,0.88331732,-1491.4739,1121.6778)" />
+      </g>
+    </g>
+    <g
+       transform="translate(1172.2855,0)"
+       id="g7306">
+      <rect
+         ry="17.014229"
+         rx="15.683531"
+         y="618.36786"
+         x="-2349.9119"
+         height="169.27422"
+         width="202.84566"
+         id="rect7308"
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -2248.5042,639.8125 c -21.0821,0.002 -59.125,22.46875 -59.125,22.46875 -0.5864,0.41277 1.3032,15.71964 4.125,23.65625 15.5192,-10.05083 36.8168,-13.26281 52.75,-13.96875 l 4.5312,0 c 18.062,0.72931 37.6131,3.63456 52.7188,13.96875 2.8262,-7.93661 4.7432,-23.24365 4.1562,-23.65625 0,0 -38.0643,-22.4706 -59.1562,-22.46875 z m 18.3438,13.40625 c 0.393,-0.0234 0.791,0.0164 1.1874,0.15625 1.5861,0.55935 2.4343,2.28895 1.875,3.875 l -4.5312,12.875 c -2.0931,-0.25629 -4.1633,-0.48438 -6.25,-0.65625 l 5.0312,-14.25 c 0.4196,-1.18954 1.508,-1.9299 2.6876,-2 z"
+         id="path7310"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g7312"
+       transform="translate(1524.2858,0)">
+      <path
+         style="fill:#ffffff;stroke:none"
+         d="m -3038.3038,1039.8519 0,55.6503 171.7926,0 0,-29.2418 c 0,-7.5242 17.8484,-7.5242 17.8484,0 l 0,85.8877 c 0,7.5242 -17.8484,7.5242 -17.8484,0 l 0,-26.089 -171.7926,0 0,26.089 c 0,7.5242 -18.012,7.5242 -18.012,0 l 0,-112.2962 c 0,-7.5242 18.012,-7.5242 18.012,0 z"
+         id="path7314"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sccssssccssss" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;stroke:none"
+         id="path7316"
+         sodipodi:cx="-3004.6987"
+         sodipodi:cy="1024.4314"
+         sodipodi:rx="20.203051"
+         sodipodi:ry="20.203051"
+         d="m -2984.4957,1024.4314 c 0,11.1578 -9.0452,20.203 -20.203,20.203 -11.1579,0 -20.2031,-9.0452 -20.2031,-20.203 0,-11.1578 9.0452,-20.2031 20.2031,-20.2031 11.1578,0 20.203,9.0453 20.203,20.2031 z"
+         transform="matrix(0.93634027,0,0,0.93634027,-201.62853,112.9063)" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -2991.6732,1053.2053 92.3597,0 c 7.3864,0 27.2514,2.1601 28.3777,22.07 l 0,15.7643 -120.7374,0 z"
+         id="path7318"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssccc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -3006.6921,965.92796 c -7.1383,0 -12.8752,5.73705 -12.8752,12.87516 l 0,55.96868 c 0,6.2258 4.3779,10.8628 10.2314,12.082 0.6574,-6.5128 6.1038,-12.082 12.7959,-12.082 l 111.2764,0 c 2.8895,0 12.8487,-1.9487 12.8487,-10.2315 0.1914,-18.7929 0,-26.8417 0,-45.73718 -2e-4,-7.13811 -5.6841,-12.87516 -12.8224,-12.87516 l -121.4548,0 z m 18.9559,12.55792 30.4562,0 0,1.1897 -24.9836,36.93352 24.4019,0 0,4.5208 -31.8574,0 0,-1.4012 24.7721,-36.72197 -22.7892,0 0,-4.52085 z m 34.4484,12.18779 23.503,0 0,1.4012 -18.0305,24.90443 17.8454,0 0,4.1506 -25.01,0 0,-1.5068 18.0305,-24.77227 -16.3384,0 0,-4.17716 z m 27.6009,0 23.5031,0 0,1.4012 -18.0306,24.90443 17.8455,0 0,4.1506 -25.01,0 0,-1.5068 18.0304,-24.77227 -16.3384,0 0,-4.17716 z"
+         id="path7320"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g7322"
+       transform="translate(1524.2858,0)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7324"
+         d="m -2525.3592,963.47393 c -13.8276,0 -30.4861,11.1605 -33.3338,24.6917 -4.6184,21.94447 33.3338,58.43697 33.3338,58.43697 0,0 37.9522,-36.4925 33.3338,-58.43697 -2.8477,-13.5312 -19.5062,-24.6917 -33.3338,-24.6917 z m 0,14.4035 c 9.3185,0 16.8727,7.5542 16.8727,16.8726 0,9.31847 -7.5542,16.87267 -16.8727,16.87267 -9.3185,0 -16.8727,-7.5542 -16.8727,-16.87267 0,-9.3184 7.5542,-16.8726 16.8727,-16.8726 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -2660.6092,1132.9739 c 70.5,23 128.1016,12.0416 127.1213,-6.1152 -2.011,-37.2483 -86.3867,-35.5987 -78.6525,-59.546 5.3414,-16.5385 62.1219,-12 72.7886,-9.5"
+         id="path7326"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssc" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -2535.3592,1043.9114 c -6.7782,2.6124 -11.4375,7.873 -11.4375,13.9687 0,8.6892 9.4132,15.75 21.0313,15.75 11.618,0 21.0624,-7.0608 21.0624,-15.75 0,-5.9144 -4.3929,-11.0313 -10.8437,-13.7187 -5.507,6.2931 -9.8125,10.4375 -9.8125,10.4375 0,0 -4.3951,-4.263 -10,-10.6875 z"
+         id="path7328"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -2675.6194,1033.831 c -13.8276,0 -30.4861,11.1605 -33.3338,24.6917 -4.6184,21.9445 33.3338,58.437 33.3338,58.437 0,0 37.9522,-36.4925 33.3338,-58.437 -2.8477,-13.5312 -19.5062,-24.6917 -33.3338,-24.6917 z m 0,14.4035 c 9.3185,0 16.8727,7.5542 16.8727,16.8726 0,9.3185 -7.5542,16.8727 -16.8727,16.8727 -9.3185,0 -16.8727,-7.5542 -16.8727,-16.8727 0,-9.3184 7.5542,-16.8726 16.8727,-16.8726 z"
+         id="path7330"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7332"
+         d="m -2685.6194,1114.2685 c -6.7782,2.6124 -11.4375,7.873 -11.4375,13.9687 0,8.6892 9.4132,15.75 21.0313,15.75 11.618,0 21.0624,-7.0608 21.0624,-15.75 0,-5.9144 -4.3929,-11.0313 -10.8437,-13.7187 -5.507,6.2931 -9.8125,10.4375 -9.8125,10.4375 0,0 -4.3951,-4.263 -10,-10.6875 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g3864"
+       transform="translate(10.857138,2.857143)"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="42.934151"
+         y="274.08804"
+         x="122.65949"
+         height="220.39531"
+         width="120.39531"
+         id="rect3825"
+         style="fill:#008080;fill-opacity:1;stroke:#000000;stroke-width:2.60468912;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="csssscc"
+         inkscape:connector-curvature="0"
+         id="rect3827"
+         d="m 243.63419,306.6129 0,18.20278 c 0,13.59117 -10.94163,24.5328 -24.5328,24.5328 l -72.48849,0 c -13.59117,0 -24.5328,-10.94163 -24.5328,-24.5328 l 0,-18.20278 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.44590652;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    </g>
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.83025265px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 174.2974,821.53985 c -44.41149,5.62699 -48.39214,-15.18203 -68.79237,-35.58226 -17.151722,-17.15172 16.62501,-54.57941 23.7215,-61.67591 5.43161,-5.43161 -8.75346,24.45664 -2.37215,30.83796 6.1209,6.1209 42.43139,14.50023 49.81516,7.11645 27.01364,-27.01364 -18.9772,-35.40058 -18.9772,-49.81516 0,-13.81445 53.4809,21.34936 42.69871,21.34936 -1.53001,0 1.91971,-24.17396 0,-26.09367 -16.37836,-16.37835 -23.30575,-49.39939 -37.95441,-64.04805 -13.53489,-13.5349 -16.44103,45.07085 -35.58226,45.07085 -3.73671,0 34.57775,-65.4157 37.95441,-68.79236 1.77377,-1.77377 49.72017,56.83662 54.55946,61.67591 10.06417,10.06418 -12.7303,49.06386 0,42.69871 9.80004,-4.90003 40.87699,-88.21536 41.72871,-87.3902 38.58862,37.38544 -5.7606,114.18929 -20.37936,92.1345 -7.93084,15.86166 -7.53052,59.71782 -16.60504,68.79236 -14.15341,14.15341 -42.69423,11.85628 -61.67592,30.83796"
+       id="path3846"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssssssssssscsc"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3856"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       transform="matrix(2.8673183,0,0,3.0779221,-1031.2819,-505.56004)"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3858"><rect
+           id="rect3860"
+           width="202.85715"
+           height="125.71429"
+           x="394.28571"
+           y="417.14285"
+           style="fill:#4d4d4d" /></flowRegion><flowPara
+         id="flowPara3862"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#4d4d4d;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light">316</flowPara></flowRoot>    <g
+       id="g6218"
+       transform="translate(-12.000002,30)"
+       style="fill:#4d4d4d">
+      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         xml:space="preserve"
+         id="flowRoot3896"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         transform="translate(-51.428571,902.85715)"><flowRegion
+           id="flowRegion3898"><rect
+             id="rect3900"
+             width="494.28571"
+             height="134.28571"
+             x="174.28572"
+             y="74.285713"
+             style="font-size:60px;fill:#4d4d4d" /></flowRegion><flowPara
+           id="flowPara3902"
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4d4d4d;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light">Z</flowPara></flowRoot>      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         transform="matrix(0.77835498,0,0,0.77835498,33.444589,899.80263)"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         id="flowRoot3904"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3906"><rect
+             style="font-size:60px;fill:#4d4d4d"
+             y="74.285713"
+             x="174.28572"
+             height="134.28571"
+             width="494.28571"
+             id="rect3908" /></flowRegion><flowPara
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4d4d4d;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light"
+           id="flowPara3910">Z</flowPara></flowRoot>      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         xml:space="preserve"
+         id="flowRoot3912"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         transform="matrix(0.66753247,0,0,0.66753247,107.30974,881.1325)"><flowRegion
+           id="flowRegion3914"><rect
+             id="rect3916"
+             width="494.28571"
+             height="134.28571"
+             x="174.28572"
+             y="74.285713"
+             style="font-size:60px;fill:#4d4d4d" /></flowRegion><flowPara
+           id="flowPara3918"
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4d4d4d;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light">Z</flowPara></flowRoot>    </g>
+    <flowRoot
+       transform="matrix(2.8673183,0,0,3.0779221,-1032.7104,-178.41719)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       id="flowRoot3920"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3922"><rect
+           y="417.14285"
+           x="394.28571"
+           height="125.71429"
+           width="202.85715"
+           id="rect3924"
+           style="fill:#4d4d4d" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#4d4d4d;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light"
+         id="flowPara3926">456</flowPara></flowRoot>    <g
+       id="g4625"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-0.8571377,14.857143)">
+      <path
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-134.73474,430.79988)"
+         d="m 474.28572,340 c 0,11.04569 -10.87309,20 -24.28572,20 -13.41263,0 -24.28572,-8.95431 -24.28572,-20 0,-11.04569 10.87309,-20 24.28572,-20 13.41263,0 24.28572,8.95431 24.28572,20 z"
+         sodipodi:ry="20"
+         sodipodi:rx="24.285715"
+         sodipodi:cy="340"
+         sodipodi:cx="450"
+         id="path3838"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-140.79566,436.86079)"
+         d="m 602.85712,337.14285 c 0,17.35752 -24.30454,31.42857 -54.28571,31.42857 -29.98117,0 -54.28571,-14.07105 -54.28571,-31.42857 0,-17.35752 24.30454,-31.42857 54.28571,-31.42857 29.98117,0 54.28571,14.07105 54.28571,31.42857 z"
+         sodipodi:ry="31.428572"
+         sodipodi:rx="54.285713"
+         sodipodi:cy="337.14285"
+         sodipodi:cx="548.57141"
+         id="path3840"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3842"
+         sodipodi:cx="450"
+         sodipodi:cy="340"
+         sodipodi:rx="24.285715"
+         sodipodi:ry="20"
+         d="m 474.28572,340 c 0,11.04569 -10.87309,20 -24.28572,20 -13.41263,0 -24.28572,-8.95431 -24.28572,-20 0,-11.04569 10.87309,-20 24.28572,-20 13.41263,0 24.28572,8.95431 24.28572,20 z"
+         transform="matrix(0.8533541,-0.52133173,0.52133173,0.8533541,-32.230316,312.13523)" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="path3844"
+         sodipodi:cx="548.57141"
+         sodipodi:cy="337.14285"
+         sodipodi:rx="54.285713"
+         sodipodi:ry="31.428572"
+         d="m 602.85712,337.14285 c 0,17.35752 -24.30454,31.42857 -54.28571,31.42857 -29.98117,0 -54.28571,-14.07105 -54.28571,-31.42857 0,-17.35752 24.30454,-31.42857 54.28571,-31.42857 29.98117,0 54.28571,14.07105 54.28571,31.42857 z"
+         transform="matrix(0.8533541,-0.52133173,0.52133173,0.8533541,-39.544783,316.60378)" />
+    </g>
+    <flowRoot
+       transform="matrix(2.8673183,0,0,3.0779221,-717.99617,-854.98862)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       id="flowRoot3848"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3850"><rect
+           y="417.14285"
+           x="394.28571"
+           height="125.71429"
+           width="202.85715"
+           id="rect3852"
+           style="fill:#333333" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#333333;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light"
+         id="flowPara3854">2345</flowPara></flowRoot>    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2.81945181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3876"
+       width="206.75981"
+       height="128.88922"
+       x="434.67566"
+       y="685.15924"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="-679.26538"
+       x="486.0835"
+       height="33.860603"
+       width="82.462585"
+       id="rect3878"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.91263926;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       transform="scale(1,-1)"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       transform="scale(1,-1)"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:1.56820917;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3880"
+       width="248.28893"
+       height="33.205032"
+       x="405.85556"
+       y="-634.6319"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g6214"
+       transform="matrix(0.9398173,0,0,0.9398173,48.007989,56.824284)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         d="m 580.00003,742.85712 c 0,26.82526 -28.1421,48.57143 -62.85715,48.57143 -34.71504,0 -62.85714,-21.74617 -62.85714,-48.57143 0,-26.82526 28.1421,-48.57143 62.85714,-48.57143 34.71505,0 62.85715,21.74617 62.85715,48.57143 z"
+         sodipodi:ry="48.57143"
+         sodipodi:rx="62.857143"
+         sodipodi:cy="742.85712"
+         sodipodi:cx="517.14288"
+         id="path3882"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         inkscape:transform-center-y="24.888712"
+         transform="matrix(0.78641533,-0.61769809,-0.61769809,-0.78641533,0,0)"
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.53715897;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3884"
+         width="58.756271"
+         height="16.462839"
+         x="-62.226124"
+         y="-914.32635" />
+    </g>
+    <flowRoot
+       transform="matrix(2.6088568,0,0,2.8004766,-578.20252,-373.97642)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       id="flowRoot3886"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3888"><rect
+           y="417.14285"
+           x="394.28571"
+           height="125.71429"
+           width="202.85715"
+           id="rect3890"
+           style="fill:#666666" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#666666;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light"
+         id="flowPara3892">234</flowPara></flowRoot>    <path
+       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:1.81244087;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m 448.29822,1044.1495 -23.30281,64.73 -23.30281,-64.73 c -4.68217,-13.006 10.43302,-25.029 23.30281,-25.029 12.86978,0 27.98497,12.023 23.30281,25.029 z"
+       id="path3930"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scsss"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="scsss"
+       inkscape:connector-curvature="0"
+       id="path3933"
+       d="m 654.0125,938.43524 -23.3028,64.72996 -23.3028,-64.72996 c -4.6822,-13.006 10.433,-25.029 23.3028,-25.029 12.8698,0 27.985,12.023 23.3028,25.029 z"
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.81244087;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:10.549119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 436.0309,1100.2765 C 697.1854,1062.449 284.59104,997.1317 628.2969,997.1317"
+       id="path3935"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3947"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       transform="matrix(2.8673183,0,0,3.0779221,-716.48122,-174.21414)"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3949"><rect
+           id="rect3951"
+           width="202.85715"
+           height="125.71429"
+           x="394.28571"
+           y="417.14285"
+           style="fill:#333333" /></flowRegion><flowPara
+         id="flowPara3953"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#333333;font-family:Leelawadee UI Semilight;-inkscape-font-specification:Leelawadee UI Semilight Light">2734</flowPara></flowRoot>    <g
+       id="g3765"
+       transform="translate(-2228.2858,0)">
+      <rect
+         style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+         id="rect3767"
+         width="336"
+         height="336"
+         x="-1596.2035"
+         y="576"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         ry="15.229992"
+         rx="15.229992" />
+      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         transform="translate(-1703.681,735.41593)"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         id="flowRoot3769"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3771"><rect
+             style="font-size:60px;fill:#ffffff"
+             y="74.285713"
+             x="174.28572"
+             height="134.28571"
+             width="494.28571"
+             id="rect3773" /></flowRegion><flowPara
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+           id="flowPara3775">2911</flowPara></flowRoot>    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m -3646.2328,704.45798 c -41.6242,29.53175 -35.2153,-64.16926 -38.3245,-48.18653 -4.8514,24.93818 -26.432,50.43944 -26.432,65.22855 0,29.6132 23.5899,53.66671 53.0172,54.4375 -0.2395,-0.0121 0.2378,-0.0444 0,-0.0625 -14.5091,-1.10397 -26.611,-13.20819 -26.611,-28 0,-15.51928 11.0917,-28.09375 26.611,-28.09375 15.5193,0 29.5766,12.57447 29.5766,28.09375 0,14.74995 -15.126,26.83704 -29.5766,28 -0.031,0.003 0.032,-0.003 0,0 -0.248,0.0191 0.2498,0.0498 0,0.0625 -0.1041,0.007 0.1045,0.0259 0,0.0312 29.5796,-0.59957 55.9825,-24.74552 55.9825,-54.46875 -3.3088,-53.9556 -60.2476,-85.39757 -55.9825,-114.04734 -61.3745,74.7611 63.8942,60.00225 11.7393,97.00537 z"
+       id="path3803"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssccsssccccccs" />
+    <rect
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+       id="rect6452"
+       width="336"
+       height="336"
+       x="-1596.2035"
+       y="576"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       ry="15.229992"
+       rx="15.229992" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       transform="translate(-1703.681,735.41593)"
+       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       id="flowRoot6767"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6769"><rect
+           style="font-size:60px;fill:#ffffff"
+           y="74.285713"
+           x="174.28572"
+           height="134.28571"
+           width="494.28571"
+           id="rect6771" /></flowRegion><flowPara
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+         id="flowPara6773">2911</flowPara></flowRoot>    <g
+       id="g3856">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -1459.3283,611.03125 c -4.4244,-0.58498 55.1177,49.95873 31.625,68.59375 -42.7311,33.89539 -21.4892,-39.27391 -31.75,-23 -15.8088,25.07323 -23.25,50.08589 -23.25,64.875 0,29.6132 23.6352,53.66671 53.0625,54.4375 -0.2395,-0.0121 -0.4809,-0.0444 -0.7187,-0.0625 -14.5091,-1.10397 -25.9376,-13.20819 -25.9376,-28 0,-15.51928 12.5745,-28.09375 28.0938,-28.09375 15.5193,0 28.0938,12.57447 28.0938,28.09375 0,14.74995 -11.362,26.83704 -25.8126,28 -0.031,0.003 -0.062,-0.003 -0.094,0 -0.248,0.0191 -0.5002,0.0498 -0.75,0.0625 -0.1041,0.007 -0.208,0.0259 -0.3125,0.0312 29.5796,-0.59957 53.375,-24.74552 53.375,-54.46875 0,-19.60111 -13.2741,-85.62934 -85.375,-110.375 -0.1031,-0.0354 -0.1798,-0.0845 -0.25,-0.0937 z"
+         id="path3813"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path3815"
+         d="m -1411.5,752.75 c 0,9.25077 -7.4992,16.75 -16.75,16.75 -9.2508,0 -16.75,-7.49923 -16.75,-16.75 0,-9.25077 5.2185,-21.31152 14.4693,-21.31152 9.2508,0 19.0307,12.06075 19.0307,21.31152 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         transform="matrix(0.62006202,0,0,0.62006202,-542.59987,298.83098)" />
+    </g>
+    <g
+       transform="translate(8.0108642e-5,0)"
+       id="g3818">
+      <rect
+         ry="15.229992"
+         rx="15.229992"
+         y="309.85715"
+         x="-2996.061"
+         height="124.28568"
+         width="87.143394"
+         id="rect3820"
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="sscsscsss"
+         inkscape:connector-curvature="0"
+         id="path3822"
+         d="m -2971.5581,275.99107 c -8.4374,0 -15.2187,6.81259 -15.2187,15.25 l 0,6.25 c 1.8233,-0.76864 3.8282,-1.21875 5.9375,-1.21875 l 56.6875,0 c 2.1093,0 4.1142,0.45011 5.9375,1.21875 l 0,-6.25 c 0,-8.43741 -6.7814,-15.25 -15.2188,-15.25 z"
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+      <path
+         sodipodi:nodetypes="cccccscsssscscscsccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3824"
+         d="m -2971.0893,344.35692 c 0.01,0.0934 0.031,0.18248 0.031,0.27721 0,-0.0949 0.021,-0.1837 0.031,-0.27721 z m 0.031,0.27721 c 0,2.67597 -4.1528,4.85925 -9.2812,4.85925 -3.2052,0 -6.05,-0.84726 -7.7188,-2.13612 l 0,71.91675 c 0,2.16801 1.9806,6.91349 6.9376,6.91349 l 57.25,0 c 4.9564,0 6.9374,-4.74548 6.9374,-6.91349 l 0,-71.91675 c -1.6684,1.28886 -4.5135,2.13612 -7.7187,2.13612 -5.1284,0 -9.2813,-2.18328 -9.2813,-4.85925 0,2.67597 -4.1528,4.85925 -9.2812,4.85925 -5.1284,0 -9.2812,-2.18328 -9.2812,-4.85925 0,2.67597 -4.1529,4.85925 -9.2813,4.85925 -5.1284,0 -9.2813,-2.18328 -9.2813,-4.85925 z m 18.5626,0 c 0,-0.0947 0.021,-0.18383 0.031,-0.27721 l -0.062,0 c 0.01,0.0934 0.031,0.18248 0.031,0.27721 z m 18.5624,0 c 0,-0.0947 0.021,-0.18383 0.031,-0.27721 l -0.062,0 c 0.01,0.0935 0.031,0.18235 0.031,0.27721 z"
+         style="fill:#ffffff;stroke:none" />
+      <rect
+         style="fill:none;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3826"
+         width="87.143394"
+         height="124.28568"
+         x="-2996.061"
+         y="309.85715"
+         rx="15.229992"
+         ry="15.229992" />
+    </g>
+    <g
+       id="g3836"
+       transform="translate(-2580.2858,0)">
+      <rect
+         style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+         id="rect3838"
+         width="336"
+         height="336"
+         x="-1596.2035"
+         y="576"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         ry="15.229992"
+         rx="15.229992" />
+      <flowRoot
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+         transform="translate(-1703.681,735.41593)"
+         style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+         id="flowRoot3840"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3842"><rect
+             style="font-size:60px;fill:#ffffff"
+             y="74.285713"
+             x="174.28572"
+             height="134.28571"
+             width="494.28571"
+             id="rect3844" /></flowRegion><flowPara
+           style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+           id="flowPara3846">2911</flowPara></flowRoot>      <path
+         inkscape:connector-curvature="0"
+         id="path3848"
+         d="m -1459.3283,611.03125 c -4.4244,-0.58498 55.1177,49.95873 31.625,68.59375 -42.7311,33.89539 -21.4892,-39.27391 -31.75,-23 -15.8088,25.07323 -23.25,50.08589 -23.25,64.875 0,29.6132 23.6352,53.66671 53.0625,54.4375 -0.2395,-0.0121 -0.4809,-0.0444 -0.7187,-0.0625 -14.5091,-1.10397 -25.9376,-13.20819 -25.9376,-28 0,-15.51928 12.5745,-28.09375 28.0938,-28.09375 15.5193,0 28.0938,12.57447 28.0938,28.09375 0,14.74995 -11.362,26.83704 -25.8126,28 -0.031,0.003 -0.062,-0.003 -0.094,0 -0.248,0.0191 -0.5002,0.0498 -0.75,0.0625 -0.1041,0.007 -0.208,0.0259 -0.3125,0.0312 29.5796,-0.59957 53.375,-24.74552 53.375,-54.46875 0,-19.60111 -13.2741,-85.62934 -85.375,-110.375 -0.1031,-0.0354 -0.1798,-0.0845 -0.25,-0.0937 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       style="fill:#a3e7c3;fill-opacity:1;stroke:none"
+       id="rect3862"
+       width="336"
+       height="336"
+       x="-4528.4893"
+       y="576"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       ry="15.229992"
+       rx="15.229992" />
+    <flowRoot
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\main_menu.png"
+       transform="translate(-4635.9668,735.41593)"
+       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Iskoola Pota;-inkscape-font-specification:Iskoola Pota"
+       id="flowRoot3864"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3866"><rect
+           style="font-size:60px;fill:#ffffff"
+           y="74.285713"
+           x="174.28572"
+           height="134.28571"
+           width="494.28571"
+           id="rect3868" /></flowRegion><flowPara
+         style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI"
+         id="flowPara3870">2911</flowPara></flowRoot>    <g
+       id="g3880"
+       transform="translate(-2932.2858,0)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3883"
+         d="m -1459.3283,611.03125 c -4.4244,-0.58498 55.1177,49.95873 31.625,68.59375 -42.7311,33.89539 -21.4892,-39.27391 -31.75,-23 -15.8088,25.07323 -23.25,50.08589 -23.25,64.875 0,29.6132 23.6352,53.66671 53.0625,54.4375 -0.2395,-0.0121 -0.4809,-0.0444 -0.7187,-0.0625 -14.5091,-1.10397 -25.9376,-13.20819 -25.9376,-28 0,-15.51928 12.5745,-28.09375 28.0938,-28.09375 15.5193,0 28.0938,12.57447 28.0938,28.09375 0,14.74995 -11.362,26.83704 -25.8126,28 -0.031,0.003 -0.062,-0.003 -0.094,0 -0.248,0.0191 -0.5002,0.0498 -0.75,0.0625 -0.1041,0.007 -0.208,0.0259 -0.3125,0.0312 29.5796,-0.59957 53.375,-24.74552 53.375,-54.46875 0,-19.60111 -13.2741,-85.62934 -85.375,-110.375 -0.1031,-0.0354 -0.1798,-0.0845 -0.25,-0.0937 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         transform="matrix(0.62006202,0,0,0.62006202,-542.59987,298.83098)"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         d="m -1411.5,752.75 c 0,9.25077 -7.4992,16.75 -16.75,16.75 -9.2508,0 -16.75,-7.49923 -16.75,-16.75 0,-9.25077 5.2185,-21.31152 14.4693,-21.31152 9.2508,0 19.0307,12.06075 19.0307,21.31152 z"
+         id="path3885"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssss" />
+    </g>
   </g>
 </svg>

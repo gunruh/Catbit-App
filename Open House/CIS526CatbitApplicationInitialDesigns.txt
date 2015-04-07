@@ -1,0 +1,165 @@
+CIS 526 - Catbit Application 
+Yuan Su and Grant Unruh 
+Computer Science 
+Kansas State University 
+Manhattan, KS 66502 
+dante666@ksu.edu 
+gunruh@ksu.edu 
+Abstract 
+The problem we are faced with is creating an application to use with the fitbit flex. Our solution 
+will be able to be used easily by a wide range of users and have functionality that is enjoyable 
+to use, easy to understand, and that works well consistently. We have received feedback from 
+people outside of class, as well as classmates in CIS 526. 
+Introduction 
+In this project, we are designing an app for people who own a fitbit flex. We are creating this 
+app because after studying the fitbit flex, we realized that the fitbit flex will only collected the 
+data that it gains from your body, it won’t show it directly on the fitbit itself. Our goal is to 
+create an application formatted for use on a smartphone that collects the fitbit flex’s data and 
+makes it visible to its users. 
+According to our study, we have found that the the types of data that fitbit will collect are: 
+sleep quality, footsteps 
+taken, calories burned, distance traveled, and active minutes. Our job 
+is to make this data available to the user and also provide some extra features such as water 
+consumption, a food plan, or a way for the user to challenge their friends. 
+Related Work 
+Before we started to design this app for a smartphone, we did research on some similar 
+applications. We found three competitor apps that are similar to our application and we tried 
+to absorb some good ideas from those apps and use them in our own. The first app that we 
+looked at was fitbit’s official app. We found this to be a good reference because It utilizes all 
+
+
+of the data that a fitbit flex can provide. We got our ideas of functionality from the five major 
+functions mentioned above. For our interface design, we looked at the vivo fit app and “My 
+Fitness Pal” for some more ideas. We like how the fitbit app made it easy to see all the data at 
+once, and then the user could click on some data to get more details about it. In our app, we 
+will also be creating a way for the user to see all the basic information at once on a home 
+screen with icons for each function of the app. The stepcounter, 
+for instance, will have the 
+number of steps you’ve currently taken in that day displayed on the icon. If the user were to 
+click on the stepcounter 
+icon, he or she could then see a chart showing the steps from 
+previous days and weeks and give the user an idea of how they are doing compared to a goal 
+they might have. We liked the display in the “My Fitness Pal” app because it was big font, 
+simple, and easy to read. 
+Implementation 
+For implementation, we used Lean UX practices to create our interface design. We asked 
+people who own a fitbit about their experience with the app, and we created two hypothetical 
+users, Jane and John, who use the fitbit flex. 
+
+
+Jane John 
+Gender: Female Male 
+Age: 22 60 
+Hobbies: Running, Biking, 
+Longboarding 
+Watching TV, Reading, 
+Eating snacks 
+Weight: 150 lbs 230 lbs 
+Calories Per Day: 1800 2200 
+Job: Student Teacher Retired 
+Why they use Catbit: She wants to keep record of 
+sports activities and is 
+training for a marathon. She 
+also wants to make sure she 
+gets enough sleep at night to 
+do well in college. 
+His wife got it for him to 
+motivate him to lose weight 
+and stay in shape. 
+Jane was a girl our age (22) in college who is very active in sports and wants to see how she 
+is performing. She is also training for a marathon and wants to track her progress and set 
+goals. John is an older retired gentleman who does not get much exercise, but his wife bought 
+him a fitbit to help motivate him to get back into shape. He wants an app that has an easy to 
+
+
+use interface as he is less techsavvy. 
+he also wants larger text so that it’s easy for his eyes 
+to read. 
+
+We originally sketched out a design on paper (seen above left) and showed it to some people 
+in FarmHouse fraternity who use the app, or one that is similar. The feedback included a 
+some people saying, “it looks good,” but some other suggestions were also made, such as 
+having a calorie intake display, a way to see how many calories you’ve consumed versus the 
+amount you’ve burned in order to align with calorie goals, and a way to monitor your heart 
+rate. We then designed the basic layout (above right) that will allow us to display those ideas 
+as functions of the app. One of the resource videos mentioned in our homework discussed 10 
+ways to make a great user interface [1]. For now, our main focuses from these 10 are on 
+having simple, clean dialogue, a small memory load, shortcuts, and consistency of the 
+interface. 
+
+Let’s take a look at our basic interface idea designed above. On our main page, we designed 
+each of our functions to have its own block icon and have it display like a windows phone 
+interface. We believe that this gives us a clear view of the whole app and also allows us to 
+have more room for bigger text that is easy to read. Along the top of the main screen will be 
+bar displaying the title of our app, we are also thinking about having a user’s profile page link 
+on the top right and a quick view dashboard on the top left. 
+
+
+The idea of our quickview 
+dashboard is to show the users a view displaying all the realtime 
+type of data at once. The quickview 
+dashboard will be different than the main screen in that 
+this dashboard will be focused on the distance, steps, speed, etc. traveled on just the current 
+exercise event, while the main screen will show data from the whole day. The quickview 
+dashboard would be ideal for use during a run or a workout as a way to glance at your phone 
+to see how well you’re doing currently. Based on our original design, the quickview 
+dashboard will display the current speed level that we are traveling, the water level that we 
+have consumed, the steps we’ve taken, the distance that we’ve traveled, the calories burned, 
+and maybe even a stopwatch to keep track of elapsedtime. 
+This interface will not reveal more 
+detailed, longterm 
+data, such as the graph history of each function of the app. 
+If users wants to see the details of the history of their data. they have to click on the icon 
+button for each functionalities from the main screen. Take the Water bottle one as an 
+example. Once the user clicks on it, it will transfer directly to the water level interface. it will 
+show the amount of water that the user typed in and we have a ‘thermometerstyle’ 
+model that 
+shows how much water the user is going to consume to reach his or her daily suggested 
+level. Users can also go to the statistic page that where historical data is presented as a chart 
+diagram. This chart diagram will show users the trend of how often and in what quantity they 
+have been drinking their water from the leading up to the current date and time. 
+The second icon that we have right next to the water bottle icon is the step counter. this app 
+will reveal steps that users have taken as long as they have their fitbit connect to the app. On 
+the main page, we will show users the basic data of how many steps they’ve taken on that 
+day. Once the user clicks on the icon, it will shows a statistic page which is similar to the 
+water bottle one. The difference between this one and the water bottle one is that this data is 
+automatically collect by fitbit instead of inputted it manually by the user. Once the data is 
+collected by the fitbit. It will generate the statistic chart by itself and show it to the user. 
+The remaining icons will have basically the same features, only differing by their functionality. 
+Each of them will all have their own statistic chart page to organize the data collecting from 
+fitbit. 
+Evaluation 
+After presenting our revised user interface in class. We received a suggestion to create some 
+sort of animation or movement to let the user know they have touched the screen and that the 
+app is responding to them. We plan to implement this by putting said animations on our icons 
+on our main screen and maybe in other places in the app. We also received feedback on our 
+screen design from outside of our class. This feedback included the idea of making the app 
+universal, so that it could receive data from wristbands other than ones made by fitbit, for 
+example, Garmin’s vivofit. Also, it was suggested to us to add an additional icon for 
+networking of some sort, for example, the capability of posting how many steps you’ve taken 
+today on facebook. With that, it was also suggested to make it simple to do, without a lot of 
+
+
+forms to fill out, just a simple click and post to facebook. Besides these suggestions, both sets 
+of feedback seemed to think that the app looked good overall. We plan to add the additional 
+facebook post compatability and animations if we have time after getting the main functionality 
+working. 
+Conclusions and Future Work 
+Overall, we are creating an app that helps fitbit users to access data from their body easily. 
+Since this is the prototype of the app, we are still considering adding on more features for the 
+users, such as: creating a profile page for the user so they can change their personal 
+information from there. If we add on the profile page. we are thinking about adding a 
+challenge feature for this app. The challenge feature will simply function as a small social 
+network in which users find their friends who are using the app and compete against each 
+other with their data. We can also have a public leaderboard for people who use the app and 
+display for everyone to see. We believe that this will become one of the motivations for our 
+users to exercise even more. Our future plans might also include the animations and 
+facebook (or other social network) post capabilities. And if it is possible, we could try to collect 
+data from other wristbands besides the fitbit flex so that the app would become more 
+universal. 
+References 
+[1] "User Interface (UX) Techniques Janne 
+Jul Jensen." YouTube . YouTube, 3 Apr. 2013. 
+Web. 22 Feb. 2015. 
+
+
