@@ -4,19 +4,56 @@ body, html { /*This is to remove white space along top and sides of page*/
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+ul { /*This removes bullet points, margin and padding from list*/
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li { /*This gives each part of navbar equal spacing*/
+  float: left;
+  display: block;
+  width: 33%;
+  color: white;
+  text-align: center;
+}
+
+li > h1 { /* "li > h1" means this only affects <h1> elements that are inside <li> elements. */
+        /* I made this for the Title of each page */
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+a:link, a:visited { /*This also helps with above spacing. It affects the links <a> in the list*/
+  display: block;
+  width: 120px;
+  color: white;
+  text-align: center;
+}
+
+a:hover, a:active {
+  background-color:#073179; /*darker blue when hovered over with mouse*/
+}
+
 .nav {
   position: fixed;
   background-color: #316aca; /*blue background-color*/
   color: white;
   text-align: center;
   width: 100%;
-  height: 100px;
+  height: 50px;
 }
 
 .navSpacer {
   position: static;
   width: 100%;
-  height: 100px;
+  height: 50px;
+}
+
+#iconContainer { /* Way of making icons equally spaced on the screen */
+  padding-right: 5px;
 }
 
 .icon {
@@ -25,9 +62,11 @@ body, html { /*This is to remove white space along top and sides of page*/
   border-radius: 5px;
   color: white; /*text*/
   text-align: center;
-  margin: 5px;
-  margin-right: 0px;
-  display: inline-block;
+  margin-top: 5px;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 5px;
+  float: left;
   min-height: 100px;
   min-width: 100px;
 }
