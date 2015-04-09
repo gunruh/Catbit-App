@@ -38,15 +38,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="-309.07498"
-     inkscape:cy="2762.5801"
+     inkscape:cx="-639.26009"
+     inkscape:cy="2732.7342"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-8"
-     inkscape:window-y="404"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-global="false"
      showguides="true"
@@ -69,7 +69,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3014,7 +3014,7 @@
        id="g5201"
        transform="matrix(0.49658599,0,0,0.48908112,1243.0681,-1038.9261)"
        style="stroke:#b3b3b3"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Resources\step_menu_revision3.png"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Images\icon_back.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
@@ -3765,7 +3765,7 @@
          style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI">Catbit</flowPara></flowRoot>    <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Resources\main_menu_revision3.png"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Images\icon_menu.png"
        id="g6334"
        transform="matrix(1.0714778,0,0,1.1673764,-1612.2722,-2114.2484)">
       <rect
@@ -3977,7 +3977,7 @@
          style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI">15</flowPara></flowRoot>    <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Resources\main_menu_revision3.png"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Images\icon_water.png"
        transform="translate(1524.2858,-2152)"
        id="g6413">
       <rect
@@ -4014,7 +4014,7 @@
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Resources\main_menu_revision3.png"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Images\icon_steps.png"
        id="g6423"
        transform="translate(1525.0564,-1802.2828)">
       <g
@@ -4141,7 +4141,7 @@
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Resources\main_menu_revision3.png"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Images\icon_weight.png"
        id="g6453"
        transform="translate(1172.2855,-2152)">
       <rect
@@ -4162,7 +4162,7 @@
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Resources\main_menu_revision3.png"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Images\icon_sleep.png"
        transform="translate(1524.2858,-2152)"
        id="g6459">
       <path
@@ -4196,7 +4196,7 @@
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Resources\main_menu_revision3.png"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Images\icon_miles.png"
        transform="translate(1524.2858,-2152)"
        id="g6469">
       <path
@@ -4257,7 +4257,7 @@
          style="font-size:100px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Leelawadee UI;-inkscape-font-specification:Leelawadee UI">2911</flowPara></flowRoot>    <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Resources\main_menu_revision3.png"
+       inkscape:export-filename="C:\Users\Owner\Documents\Classes_2014-2015_Senior\Spring 2015\CIS 526\Assignments\Catbit-App\Images\icon_calories.png"
        id="g6491"
        transform="translate(0,-2152)">
       <path
