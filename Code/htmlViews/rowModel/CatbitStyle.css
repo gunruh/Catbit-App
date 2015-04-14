@@ -95,7 +95,7 @@ Created this iconContainerMargin class to use top and bottom in iconContainer cl
 top and bottom properties based on vertical (not horizontal) screen dimension.
 */
 
-.iconContainer { /* Way of making icons equally spaced on the screen */
+.iconArea { /* Way of making icons equally spaced on the screen */
   width: 100%;
   height: 86.25%;
   text-align: center; /*This centers contained icons horizontally on screen*/
@@ -107,25 +107,12 @@ top and bottom properties based on vertical (not horizontal) screen dimension.
   height: 33.33%;
 }
 
-.statRowContainer { /*small stat row container */
-  padding: 0;
-  width: 100%;
-  height: 10.37%;
-}
-
 .row { /*main menu icon row of 2 icons */
   position: relative; /* Needed for 'top' property to take effect. */
   top: 4.34%;
   /*width: 97.7%;*/
   width: 100%;
   height: 95.65%;
-}
-
-.statRow { /* small stat row */
-  position: relative; /* Needed for 'top' property to take effect. */
-  top: 13.79%;
-  width: 100%;
-  height: 89.64%;
 }
 
 .icon {
@@ -147,25 +134,7 @@ top and bottom properties based on vertical (not horizontal) screen dimension.
   z-index: 500;
 }
 
-.stat {
-  position: relative;
-  top: 0;
-  background-color: #55da9a; /*green background color*/
-  padding: 0;
-  border-radius: 16px;
-  color: white; /*text color*/
-  text-align: left;
-  vertical-align: middle;
-  margin-top: 0;
-  margin-right: 0;
-  margin-bottom: 0;
-  margin-left: 2.22%;
-  float: left;
-  height: 100%;
-  min-width: 95.56%;
-  z-index: 500;
-}
-.iconElementsContainer {
+.iconElementsContainer {/*main menu icons*/
   position: relative;
   top: 4.76%;
   height: 85.71%;
@@ -250,4 +219,57 @@ a.icon:hover, a.icon:active {
 }
 
 .rightIcon {
+}
+
+/* ****************
+For Statistic Pages
+******************/
+
+.statRowContainer { /*small stat row container */
+  padding: 0;
+  width: 100%;
+  height: 10.37%;
+}
+
+.statRow { /* small stat row */
+  position: relative; /* Needed for 'top' property to take effect. */
+  top: 13.79%;
+  width: 100%;
+  height: 89.64%;
+}
+
+.stat {
+  position: relative;
+  top: 0;
+  background-color: #55da9a; /*green background color*/
+  padding: 0;
+  border-radius: 16px;
+  color: white; /*text color*/
+  text-align: left;
+  vertical-align: middle;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 2.22%;
+  float: left;
+  height: 100%;
+  min-width: 95.56%;
+  z-index: 500;
+}
+
+.smallStatLeft {
+  position: relative;
+  top: 16%;
+  float: left;
+  font-size: 375%;
+  font-size: 2.46vh;
+  padding: 0;
+  margin: 0;
+}
+
+.stat h1 {
+  font-size: 75%;
+  font-size: 2.46vh;
+  padding: 0;
+  margin: 0;
 }
