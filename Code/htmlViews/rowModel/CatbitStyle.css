@@ -157,8 +157,8 @@ top and bottom properties based on vertical (not horizontal) screen dimension.
 
 .iconValue {
   position: relative;
-  top: 5.56;
-  min-height: 19.79;
+  top: 5.56%;
+  min-height: 19.79%;
 }
 
 .iconUnit {
@@ -257,19 +257,94 @@ For Statistic Pages
   z-index: 500;
 }
 
+.statElementsContainer {
+  position: relative;
+  top: 4.76%;
+  height: 85.71%;
+}
+
 .smallStatLeft {
   position: relative;
-  top: 16%;
+  top: 20%;
   float: left;
   font-size: 375%;
   font-size: 2.46vh;
   padding: 0;
   margin: 0;
+  margin-left: 2.33%;
+}
+
+.smallStatRight {
+  position: relative;
+  top: 20%;
+  float: right;
+  font-size: 375%;
+  font-size: 2.46vh;
+  padding: 0;
+  margin: 0;
+  margin-right: 2.33%;
+}
+
+.statLargeRowContainer {
+  padding: 0;
+  width: 100%;
+  height: 37.5%;
+}
+
+.statLargeRow {
+  position: relative; /* Needed for 'top' property to take effect. */
+  top: 3.67%;
+  width: 100%;
+  height: 96.33%;
+}
+.largeStatTitle {
+  position: relative;
+  top: 3.81%;
+  float: left;
+  font-size: 375%;
+  font-size: 2.46vh;
+  padding: 0;
+  margin: 0;
+  margin-left: 2.33%;
+}
+
+.largeStatValue {
+  position: relative;
+  top: 3.81%;
+  font-size: 500%;
+  font-size: 13.20vh;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.largeStatBottomText {
+  position: relative;
+  top: 3.81%;
+  font-size: 75%;
+  font-size: 2.46vh;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.largeStatValueUnit {
+  position: relative;
+  float: left;
+  font-size: 75%;
+  font-size: 2.46vh;
 }
 
 .stat h1 {
   font-size: 75%;
   font-size: 2.46vh;
+  padding: 0;
+  margin: 0;
+}
+
+.stat h2 {
+  font-size: 173.17%;
+  font-size: 13.20vh;
   padding: 0;
   margin: 0;
 }
