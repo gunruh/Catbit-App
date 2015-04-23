@@ -321,7 +321,7 @@ For Statistic Pages
 .largeStatBottomText {
   position: relative;
   top: 3.81%;
-  font-size: 75%;
+  font-size: 375%;
   font-size: 2.46vh;
   padding: 0;
   margin: 0;
@@ -333,6 +333,7 @@ For Statistic Pages
   float: left;
   font-size: 75%;
   font-size: 2.46vh;
+  display: block;
 }
 
 .stat h1 {
