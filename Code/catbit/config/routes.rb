@@ -1,5 +1,19 @@
 Rails.application.routes.draw do
 
+  get 'page/home'
+
+  get 'page/water'
+
+  get 'page/steps'
+
+  get 'page/calories'
+
+  get 'page/weight'
+
+  get 'page/sleep'
+
+  get 'page/miles'
+
 get '/login', :to => 'sessions#new', :as => :login
 get '/auth/:provider/callback', :to => 'sessions#create'
 get '/auth/failure', :to => 'sessions#failure'
