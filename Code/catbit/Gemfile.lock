@@ -53,6 +53,8 @@ GEM
     debug_inspector (0.0.2)
     erubis (2.7.0)
     execjs (2.4.0)
+    fitgem (0.10.0)
+      oauth
     globalid (0.3.3)
       activesupport (>= 4.1.0)
     hashie (3.4.0)
@@ -141,8 +143,6 @@ GEM
     thor (0.19.1)
     thread_safe (0.3.5)
     tilt (1.4.1)
-    turbolinks (2.5.3)
-      coffee-rails
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
     uglifier (2.7.1)
@@ -160,6 +160,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
+  fitgem
   jbuilder (~> 2.0)
   jquery-rails
   omniauth-fitbit
@@ -168,6 +169,5 @@ DEPENDENCIES
   sdoc (~> 0.4.0)
   spring
   sqlite3
-  turbolinks
   uglifier (>= 1.3.0)
   web-console (~> 2.0)

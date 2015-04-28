@@ -2,11 +2,16 @@
 <html>
 <head>
   <title>Catbit</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= stylesheet_link_tag    'catbitStyle.css', media: 'all' %>
+  <%= javascript_include_tag 'application' %>
   <%= csrf_meta_tags %>
 </head>
 <body>
+    <!--<ul id ="navBar" class="nav">
+      <li id="menu"><a href="home.html"><img src="/images/icon_nav_menu.png" al$
+      <li id="pageTitle"><h1>Catbit <%= params[:action].capitalize %></h1></li>
+      <li id="pageIcon"></li>
+    </ul>-->
 
 <%= yield %>
 

@@ -7,16 +7,21 @@ class SessionsController < ApplicationController
 	
 	@authorization = Authorization.find_by_provider_and_uid(auth_hash["provider"], auth_hash["uid"])
 	if @authorization
-		render :text => "Welcome back #{@authorization.user.name}! You have already signed up."
+                user = @authorization.user
+                user.token = auth_hash["credentials"]["token"]
+		user.secret = auth_hash["credentials"]["secret"]
+		user.save
+
 	else
 		user = User.new :name => auth_hash["info"]["name"] #, :email => auth_hash["user_info"]["email"]
 		user.authorizations.build :provider => auth_hash["provider"], :uid => auth_hash["uid"]
+                user.token = auth_hash["credentials"]["token"]
+		user.secret = auth_hash["credentials"]["secret"]
 		user.save
-			     
-		render :text => "Hi #{user.name}! You've signed up."
 	end
-
-	#render :text => auth_hash.inspect
+        session[:user_id] = user.id
+        redirect_to page_home_path
+	#render :text => user.fitbitClient.activities_on_date('today')
   end
 
   def failure

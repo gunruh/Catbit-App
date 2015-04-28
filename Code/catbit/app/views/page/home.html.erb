@@ -1,14 +1,6 @@
 <!--<h1>Page#home</h1>
 <p>Find me in app/views/page/home.html.erb</p>-->
 
-<!DOCTYPE HTML/>
-<html>
-  <head>
-    <title>Catbit: Home</title>
-    <link rel="stylesheet" type="text/css" href="/stylesheets/CatbitStyle.css" />
-    <%= stylesheet_link_tag "catbitStyle.css" %>
-  </head>
-  <body>
     <ul id ="navBar" class="nav">
       <li id="menu"><a href="home.html"><img src="/images/icon_nav_menu.png" alt="icon_nav_menu"></a></li>
       <li id="pageTitle"><h1>Catbit</h1></li>
@@ -38,6 +30,7 @@
           </a>
         </div>
       </div>
+      <script>document.getElementById("row1").style.background-color = "blue";</script>
       
       <div id="row2" class="rowContainer">
         <div class="row">
@@ -81,5 +74,16 @@
         </div>
       </div>
     </div>
-  </body>
-</html>
+    <div>
+      
+      <%= @stats.inspect %>
+
+      <%= @sleep.inspect %>
+      <h1>Stats.Steps: <%= @stats["steps"] %> </h1>
+      <h1>Stats.Calories: <%= @stats["activityCalories"] %> </h1>
+      <h1>Sleep: <%= @sleep["summary"]["totalMinutesAsleep"] %> </h1>
+      <h1>Stats.Distance: <%= @stats["distances"][0]["distance"] %></h1>
+      
+      <%= @water.inspect %>
+      <%= @weight.inspect %>
+    </div>
