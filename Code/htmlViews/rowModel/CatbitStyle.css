@@ -1,0 +1,351 @@
+body, html { /*This is to remove white space along top and sides of page*/
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+ul { /*This removes bullet points, margin and padding from list*/
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.nav li { /*This gives each part of navbar equal spacing*/
+  float: left;
+  display: block;
+  width: 33%;
+  text-align: center;
+}
+
+a.nav:hover, a.nav:active {
+  background-color: #608cd6; /*darker blue when hovered over with mouse*/
+}
+
+/* Condense #menu #back and #pageIcon into .navIcon if you want to save space*/
+#menu {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  top: 31.25%;
+  height: 37.5%;
+}
+
+#back {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  top: 31.25%;
+  height: 37.5%;
+}
+
+#pageTitle {
+  position: relative;
+  top: 26.56%;
+  padding: 0;
+  margin: 0;
+}
+
+#pageIcon {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  top: 31.25%;
+  height: 37.5%;
+}
+
+.nav h1 { /* "li > h1" means this only affects <h1> elements that are inside <li> elements. */
+        /* I made this for the Title of each page */
+  margin: 0;
+  padding: 0;
+  font-size: 500%;
+  font-size: 5.87vh;
+}
+
+.nav h2 {
+  margin: 0;
+  padding: 0;
+  font-size: medium;
+}
+
+.nav img {
+  padding: 0;
+  height: 100%;
+}
+
+.nav {
+  position: fixed;
+  background-color: #316aca; /*blue background-color*/
+  color: white;
+  text-align: center;
+  width: 100%;
+  height: 12.5%;
+  z-index: 1000;
+}
+
+.navSpacer {
+  position: static;
+  width: 100%;
+  height: 12.5%;
+}
+
+/* 
+Created this iconContainerMargin class to use top and bottom in iconContainer class.
+top and bottom properties based on vertical (not horizontal) screen dimension.
+*/
+
+.iconArea { /* Way of making icons equally spaced on the screen */
+  width: 100%;
+  height: 86.25%;
+  text-align: center; /*This centers contained icons horizontally on screen*/
+}
+
+.rowContainer { /*main menu 2 icon row container */
+  padding: 0;
+  width: 100%;
+  height: 33.33%;
+}
+
+.row { /*main menu icon row of 2 icons */
+  position: relative; /* Needed for 'top' property to take effect. */
+  top: 4.34%;
+  /*width: 97.7%;*/
+  width: 100%;
+  height: 95.65%;
+}
+
+.icon {
+  position: relative;
+  top: 0;
+  background-color: #55da9a; /*green background color*/
+  padding: 0;
+  border-radius: 16px;
+  color: white; /*text color*/
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 2.22%;
+  float: left;
+  height: 100%;
+  min-width: 46.66%;
+  z-index: 500;
+}
+
+.iconElementsContainer {/*main menu icons*/
+  position: relative;
+  top: 4.76%;
+  height: 85.71%;
+
+  /*
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 2.5vh;
+  margin-right: 0;
+  margin-bottom: 1.25vh;
+  margin-left: 0;
+  */
+}
+
+.iconImg {
+  position: relative;
+  top: 5.56%;
+  height: 52.43%;
+}
+
+.iconValue {
+  position: relative;
+  top: 5.56%;
+  min-height: 19.79%;
+}
+
+.iconUnit {
+  position: relative;
+  top: 5.56%;
+  min-height: 11.11%;
+
+  /*
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 1.25vh;
+  margin-left: 0;
+  */
+}
+.icon ul {
+}
+
+.icon li {
+
+}
+
+.icon img {
+  height: 75%;
+  height: 11.79vh;
+}
+
+.icon h1 {
+  
+  font-size: 500%;
+  font-size: 5.19vh;
+  padding: 0;
+  margin: 0;
+}
+
+.icon h2 {
+  font-size: 266.5%;
+  font-size: 2.46vh;
+  padding: 0;
+  margin: 0;
+}
+
+/* Tried code for rotation screen size, but I don't think
+Samsung 3 III default browser supports css3, so useless to try
+to fix its huge text when landscape issue with css3 rotation testing.
+Will need to use JavaScript probably. */
+
+a.icon:link, a.icon:visited { /*This also helps with above spacing. It affects the links <a> in the list*/
+  text-decoration: none;
+}
+
+a.icon:hover, a.icon:active {
+  background-color: #00bc61; /*darker green when hovered over with mouse*/
+}
+
+/* Testing left or right icons individually */
+.leftIcon {
+}
+
+.rightIcon {
+}
+
+/* ****************
+For Statistic Pages
+******************/
+
+.statRowContainer { /*small stat row container */
+  padding: 0;
+  width: 100%;
+  height: 10.37%;
+}
+
+.statRow { /* small stat row */
+  position: relative; /* Needed for 'top' property to take effect. */
+  top: 13.79%;
+  width: 100%;
+  height: 89.64%;
+}
+
+.stat {
+  position: relative;
+  top: 0;
+  background-color: #55da9a; /*green background color*/
+  padding: 0;
+  border-radius: 16px;
+  color: white; /*text color*/
+  text-align: left;
+  vertical-align: middle;
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 2.22%;
+  float: left;
+  height: 100%;
+  min-width: 95.56%;
+  z-index: 500;
+}
+
+.statElementsContainer {
+  position: relative;
+  top: 4.76%;
+  height: 85.71%;
+}
+
+.smallStatLeft {
+  position: relative;
+  top: 20%;
+  float: left;
+  font-size: 375%;
+  font-size: 2.46vh;
+  padding: 0;
+  margin: 0;
+  margin-left: 2.33%;
+}
+
+.smallStatRight {
+  position: relative;
+  top: 20%;
+  float: right;
+  font-size: 375%;
+  font-size: 2.46vh;
+  padding: 0;
+  margin: 0;
+  margin-right: 2.33%;
+}
+
+.statLargeRowContainer {
+  padding: 0;
+  width: 100%;
+  height: 37.5%;
+}
+
+.statLargeRow {
+  position: relative; /* Needed for 'top' property to take effect. */
+  top: 3.67%;
+  width: 100%;
+  height: 96.33%;
+}
+.largeStatTitle {
+  position: relative;
+  top: 3.81%;
+  float: left;
+  font-size: 375%;
+  font-size: 2.46vh;
+  padding: 0;
+  margin: 0;
+  margin-left: 2.33%;
+}
+
+.largeStatValue {
+  position: relative;
+  top: 3.81%;
+  font-size: 500%;
+  font-size: 13.20vh;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.largeStatBottomText {
+  position: relative;
+  top: 3.81%;
+  font-size: 375%;
+  font-size: 2.46vh;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.largeStatValueUnit {
+  position: relative;
+  float: left;
+  font-size: 75%;
+  font-size: 2.46vh;
+  display: block;
+}
+
+.stat h1 {
+  font-size: 75%;
+  font-size: 2.46vh;
+  padding: 0;
+  margin: 0;
+}
+
+.stat h2 {
+  font-size: 173.17%;
+  font-size: 13.20vh;
+  padding: 0;
+  margin: 0;
+}
