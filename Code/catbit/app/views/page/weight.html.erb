@@ -1,2 +1,73 @@
-<h1>Page#weight</h1>
-<p>Find me in app/views/page/weight.html.erb</p>
+<!--<h1>Page#weight</h1>-->
+<!--<p>Find me in app/views/page/weight.html.erb</p>-->
+
+
+
+<!DOCTYPE HTML/>
+<html>
+  <head>
+    <title>Catbit: Weight</title>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/CatbitStyle.css" />
+    <%= stylesheet_link_tag "catbitStyle.css" %>
+  </head>
+  <body style="height: 100vh;">
+    <ul id ="navBar" class="nav">
+      <li id="back"><a href="home.html"><img src="/images/icon_nav_back.png" alt="Menu"></a></li>
+      <li id="pageTitle"><h1>Steps</h1></li>
+      <li id="pageIcon"><img src="/images/icon_weight.png" alt="icon_weight"></li>
+    </ul>
+    <div id="navSpaceHolder" class="navSpacer">Navigation Bar</div>
+    
+    <div class="iconArea">
+    
+      <div id="row1" class="statRowContainer">
+        <div class="statRow">
+        
+          <div id="today" class="stat">
+            <div class="statElementsContainer">
+              <div class="smallStatLeft"><h1>Today</h1></div>
+              <div class="smallStatRight"><h1><%= @weight %> lbs</h1></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div id="row2" class="statRowContainer">
+        <div class="statRow">
+        
+          <div id="Goal" class="stat">
+            <div class="statElementsContainer">
+              <div class="smallStatLeft"><h1>Goal</h1></div>
+              <div class="smallStatRight"><h1>2,500 lbs</h1></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div id="row3" class="statLargeRowContainer">
+        <div class="statLargeRow">
+        
+          <div id="thisWeek" class="stat">
+            <div class="statElementsContainer">
+              <div class="largeStatTitle"><h1>This Week</h1></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div id="row4" class="statLargeRowContainer">
+        <div class="statLargeRow">
+        
+          <div id="weeklyBest" class="stat">
+            <div class="statElementsContainer">
+              <div class="largeStatTitle"  style="width: 97.67%;"><h1>Weekly Best</h1></div>
+              <div class="largeStatValue">3,012</div>
+              <div class="largeStatBottomText">Tuesday, March 31</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </body>
+</html>

@@ -13,7 +13,7 @@
       <div id="row1" class="rowContainer">
         <div class="row">
         
-          <a id="water_icon" class="icon leftIcon" href="home.html">
+          <a id="water_icon" class="icon leftIcon" href="water.html">
             <div class="iconElementsContainer">
               <div class="iconImg"><img src="/images/icon_water.png" alt="Water"></div>
               <div class="iconValue"><h1><%= @water["summary"]["water"].round(2) %></h1></div>
@@ -34,7 +34,7 @@
       <div id="row2" class="rowContainer">
         <div class="row">
         
-          <a id="calories_icon" class="icon leftIcon" href="home.html">
+          <a id="calories_icon" class="icon leftIcon" href="calories.html">
             <div class="iconElementsContainer">
               <div class="iconImg"><img src="/images/icon_calories.png" alt="Calories"></div>
               <div class="iconValue"><h1><%= @stats["activityCalories"] %></h1></div>
@@ -42,7 +42,7 @@
             </div>
           </a>
           
-          <a id="weight_icon" class="icon rightIcon" href="home.html">
+          <a id="weight_icon" class="icon rightIcon" href="weight.html">
             <div class="iconElementsContainer">
               <div class="iconImg"><img src="/images/icon_weight.png" alt="Weight"></div>
               <div class="iconValue"><h1><%= @body_measurements["body"]["weight"] %></h1></div>
@@ -55,7 +55,7 @@
       <div id="row3" class="rowContainer">
         <div class="row">
         
-          <a id="sleep_icon" class="icon leftIcon" href="home.html">
+          <a id="sleep_icon" class="icon leftIcon" href="sleep.html">
             <div class="iconElementsContainer">
               <div class="iconImg"><img src="/images/icon_sleep.png" alt="Sleep"></div>
               <div class="iconValue"><h1><%= @sleep["summary"]["totalMinutesAsleep"]/60 %>:<%= @sleep["summary"]["totalMinutesAsleep"]%60 %></h1></div>
@@ -63,7 +63,7 @@
             </div>
           </a>
           
-          <a id="miles_icon" class="icon rightIcon" href="home.html">
+          <a id="miles_icon" class="icon rightIcon" href="miles.html">
             <div class="iconElementsContainer">
               <div class="iconImg"><img src="/images/icon_miles.png" alt="Miles"></div>
               <div class="iconValue"><h1><%= @stats["distances"][0]["distance"].round(2) %></h1></div>
@@ -75,3 +75,4 @@
     </div>
     <div>      
 </body>
+
