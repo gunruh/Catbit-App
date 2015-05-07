@@ -4,14 +4,14 @@
 <!DOCTYPE HTML/>
 <html>
   <head>
-    <title>Catbit: Miles</title>
+    <title>Catbit: Distance</title>
     <link rel="stylesheet" type="text/css" href="/stylesheets/CatbitStyle.css" />
     <%= stylesheet_link_tag "catbitStyle.css" %>
   </head>
   <body style="height: 100vh;">
     <ul id ="navBar" class="nav">
       <li id="back"><a href="home.html"><img src="/images/icon_nav_back.png" alt="Menu"></a></li>
-      <li id="pageTitle"><h1>Miles</h1></li>
+      <li id="pageTitle"><h1>Distance</h1></li>
       <li id="pageIcon"><img src="/images/icon_miles.png" alt="icon_miles"></li>
     </ul>
     <div id="navSpaceHolder" class="navSpacer">Navigation Bar</div>
@@ -36,7 +36,7 @@
           <div id="Goal" class="stat">
             <div class="statElementsContainer">
               <div class="smallStatLeft"><h1>Goal</h1></div>
-              <div class="smallStatRight"><h1>2,500 miles</h1></div>
+              <div class="smallStatRight"><h1><%= @goals %> miles</h1></div>
             </div>
           </div>
         </div>
@@ -62,7 +62,7 @@
                     graph.width = document.getElementById("canvasId").width;
                     graph.height = document.getElementById("canvasId").height;
                     graph.xAxisLabelArr = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-                    graph.update([3, 5, 3, 4, 4, 13, 2]);
+                    graph.update(<%= @dataArray %>);
                   </script>
               </div>
             </div>
@@ -76,7 +76,7 @@
           <div id="weeklyBest" class="stat">
             <div class="statElementsContainer">
               <div class="largeStatTitle"  style="width: 97.67%;"><h1>Weekly Best</h1></div>
-              <div class="largeStatValue">3,012</div>
+              <div class="largeStatValue"><%= @dataArray.max.round(2) %> </div>
               <div class="largeStatBottomText">Tuesday, March 31</div>
             </div>
           </div>

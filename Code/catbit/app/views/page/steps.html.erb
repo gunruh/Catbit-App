@@ -35,7 +35,7 @@
           <div id="Goal" class="stat">
             <div class="statElementsContainer">
               <div class="smallStatLeft"><h1>Goal</h1></div>
-              <div class="smallStatRight"><h1>2,500 steps</h1></div>
+              <div class="smallStatRight"><h1><%= @goals %> steps</h1></div>
             </div>
           </div>
         </div>
@@ -61,7 +61,7 @@
                     graph.width = document.getElementById("canvasId").width;
                     graph.height = document.getElementById("canvasId").height;
                     graph.xAxisLabelArr = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-                    graph.update([3, 5, 3, 4, 4, 13, 2]);
+                    graph.update(<%= @dataArray %>);
                   </script>
               </div>
             </div>
@@ -75,7 +75,7 @@
           <div id="weeklyBest" class="stat">
             <div class="statElementsContainer">
               <div class="largeStatTitle"  style="width: 97.67%;"><h1>Weekly Best</h1></div>
-              <div class="largeStatValue">3,012</div>
+              <div class="largeStatValue"><%= @dataArray.max.round(2) %></div>
               <div class="largeStatBottomText">Tuesday, March 31</div>
             </div>
           </div>
