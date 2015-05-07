@@ -2,7 +2,7 @@ class PageController < ApplicationController
   def home
     @water = current_user.fitbitClient.water_on_date('today')
     @stats = current_user.fitbitClient.activities_on_date('today')["summary"]
-   
+    @body_measurements = current_user.fitbitClient.body_measurements_on_date('today') 
     @sleep = current_user.fitbitClient.sleep_on_date('today')
   end
 

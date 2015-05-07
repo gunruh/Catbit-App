@@ -24,7 +24,7 @@
           <a id="steps_icon" class="icon rightIcon" href="steps.html">
             <div class="iconElementsContainer">
               <div class="iconImg"><img src="/images/icon_steps.png" alt="Steps"></div>
-              <div class="iconValue"><h1><%= @stats["steps"].round(2) %></h1></div>
+              <div class="iconValue"><h1><%= @stats["steps"] %></h1></div>
               <div class="iconUnit"><h2>steps</h2></div>
             </div>
           </a>
@@ -46,7 +46,7 @@
           <a id="weight_icon" class="icon rightIcon" href="home.html">
             <div class="iconElementsContainer">
               <div class="iconImg"><img src="/images/icon_weight.png" alt="Weight"></div>
-              <div class="iconValue"><h1>280</h1></div>
+              <div class="iconValue"><h1><%= @body_measurements["body"]["weight"] %></h1></div>
               <div class="iconUnit"><h2>lbs</h2></div>
             </div>
           </a>
@@ -85,7 +85,8 @@
       <h1>Stats.Distance: <%= @stats["distances"][0]["distance"] %></h1>
       
       <%= @water.inspect %>
-      <%= @weight.inspect %>
+      <%= @body_measurements.inspect %>
       
       <h1>Water: <%= @water["summary"]["water"].round(2) %></h1>
+      <h1>Weight: <%= @body_measurements["body"]["weight"] %></h1>
     </div>
