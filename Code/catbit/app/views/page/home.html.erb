@@ -1,14 +1,6 @@
 <!--<h1>Page#home</h1>
 <p>Find me in app/views/page/home.html.erb</p>-->
-<body id="page" style="height: 100vh;">
-  <div id="messageDiv"></div>
-  <!--<script>window.onload = function(){
-      document.getElementById('messageDiv).innerHTML = (window.innerHeight);
-      document.getElementById('page').style.height = window.innerHeight;
-      document.getElementById('messageDiv').innerHTML = (document.getElementById('page').style.height);
-      document.getElementById('messageDiv').innerHTML = (getElementById('page').height);
-    }
-  </script>-->
+<body>
     <ul id ="navBar" class="nav">
       <li id="menu"><a href="home.html"><img src="/images/icon_nav_menu.png" alt="icon_nav_menu"></a></li>
       <li id="pageTitle"><h1>Catbit</h1></li>
@@ -38,7 +30,6 @@
           </a>
         </div>
       </div>
-      <script>document.getElementById("row1").style.background-color = "blue";</script>
       
       <div id="row2" class="rowContainer">
         <div class="row">
@@ -82,22 +73,5 @@
         </div>
       </div>
     </div>
-    <div>
-      
-      <%= @stats.inspect %>
-
-      <%= @sleep.inspect %>
-      <h1>Stats.Steps: <%= @stats["steps"] %> </h1>
-      <h1>Stats.Calories: <%= @stats["activityCalories"] %> </h1>
-      <h1>Sleep: <%= @sleep["summary"]["totalMinutesAsleep"] %> </h1>
-      <h1>Stats.Distance: <%= @stats["distances"][0]["distance"] %></h1>
-      
-      <%= @water.inspect %>
-      <%= @body_measurements.inspect %>
-      
-      <h1>Water: <%= @water["summary"]["water"].round(2) %></h1>
-      <h1>Weight: <%= @body_measurements["body"]["weight"] %></h1>
-    </div>
-    
-    <div style="height: 30%; width: 46.66%; background-color: green;">greenbox</div>
+    <div>      
 </body>
