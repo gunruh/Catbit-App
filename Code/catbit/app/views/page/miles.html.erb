@@ -48,6 +48,23 @@
           <div id="thisWeek" class="stat">
             <div class="statElementsContainer">
               <div class="largeStatTitle"><h1>This Week</h1></div>
+              
+              <div class="barChartContainer">
+                <!-- Bar Chart code from: http://www.williammalone.com/articles/html5-canvas-javascript-bar-graph/ -->
+                <canvas id="canvasId" class="barChartCanvas"></canvas>
+                <!--[if IE]><script src="/javascripts/excanvas.js"></script><![endif]-->
+                <script src="/javascripts/barGraph.js"></script>
+                  <script>
+                    var cxt = document.getElementById("canvasId").getContext("2d");
+                            
+                    var graph = new BarGraph(cxt);
+                    graph.margin = (0.023 * document.getElementById("canvasId").width);
+                    graph.width = document.getElementById("canvasId").width;
+                    graph.height = document.getElementById("canvasId").height;
+                    graph.xAxisLabelArr = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+                    graph.update([3, 5, 3, 4, 4, 13, 2]);
+                  </script>
+              </div>
             </div>
           </div>
         </div>
