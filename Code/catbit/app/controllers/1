@@ -14,7 +14,6 @@ class PageController < ApplicationController
   end
 
   def calories
-    @calories = current_user.fitbitClient.activities_on_date('today')["summary"]["activityCalories"]
   end
 
   def weight
@@ -24,6 +23,6 @@ class PageController < ApplicationController
   end
 
   def miles
-    @miles = current_user.fitbitClient.activities_on_date('today')['summary']["distances"][0]["distance"]
+    @miles = current_user.fitbitClient.activities_on_date('today')["distnaces"][0]["distance"]
   end
 end
