@@ -16,7 +16,7 @@
           <a id="water_icon" class="icon leftIcon" href="home.html">
             <div class="iconElementsContainer">
               <div class="iconImg"><img src="/images/icon_water.png" alt="Water"></div>
-              <div class="iconValue"><h1>24</h1></div>
+              <div class="iconValue"><h1><%= @water["summary"]["water"].round(2) %></h1></div>
               <div class="iconUnit"><h2>fl oz</h2></div>
             </div>
           </a>
@@ -24,7 +24,7 @@
           <a id="steps_icon" class="icon rightIcon" href="steps.html">
             <div class="iconElementsContainer">
               <div class="iconImg"><img src="/images/icon_steps.png" alt="Steps"></div>
-              <div class="iconValue"><h1>610</h1></div>
+              <div class="iconValue"><h1><%= @stats["steps"].round(2) %></h1></div>
               <div class="iconUnit"><h2>steps</h2></div>
             </div>
           </a>
@@ -38,7 +38,7 @@
           <a id="calories_icon" class="icon leftIcon" href="home.html">
             <div class="iconElementsContainer">
               <div class="iconImg"><img src="/images/icon_calories.png" alt="Calories"></div>
-              <div class="iconValue"><h1>2911</h1></div>
+              <div class="iconValue"><h1><%= @stats["activityCalories"] %></h1></div>
               <div class="iconUnit"><h2>cal</h2></div>
             </div>
           </a>
@@ -59,7 +59,7 @@
           <a id="sleep_icon" class="icon leftIcon" href="home.html">
             <div class="iconElementsContainer">
               <div class="iconImg"><img src="/images/icon_sleep.png" alt="Sleep"></div>
-              <div class="iconValue"><h1>8</h1></div>
+              <div class="iconValue"><h1><%= @sleep["summary"]["totalMinutesAsleep"] %></h1></div>
               <div class="iconUnit"><h2>hrs</h2></div>
             </div>
           </a>
@@ -67,7 +67,7 @@
           <a id="miles_icon" class="icon rightIcon" href="home.html">
             <div class="iconElementsContainer">
               <div class="iconImg"><img src="/images/icon_miles.png" alt="Miles"></div>
-              <div class="iconValue"><h1>15</h1></div>
+              <div class="iconValue"><h1><%= @stats["distances"][0]["distance"].round(2) %></h1></div>
               <div class="iconUnit"><h2>mi</h2></div>
             </div>
           </a>
@@ -86,4 +86,6 @@
       
       <%= @water.inspect %>
       <%= @weight.inspect %>
+      
+      <h1>Water: <%= @water["summary"]["water"].round(2) %></h1>
     </div>
